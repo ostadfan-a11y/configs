@@ -1,1 +1,9 @@
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=0&type=tcp#@jozveproxy
 
+vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?security=tls&encryption=none&headerType=none&allowinsecure=0&type=tcp&sni=cdg-1.fromblancwithlove.com#@jozveproxy
+
+trojan://%43%6f%6e%66%69%67%30%70%6c%75%73@45.130.125.0:443?path=%2Fid-tksi&security=tls&host=api24-normal.tiktokv.com.cyylr.eu.cc&allowinsecure=0&type=ws&sni=api24-normal.tiktokv.com.cyylr.eu.cc#@iozveproxy
+
+vless://3007b043-acdf-43a4-900e-c7c015406f89@193.233.23.196:26048?security=none&encryption=none&headerType=none&type=tcp#@jozveproxy
+
+trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&fp=ios&allowinsecure=0&type=ws&sni=www.calmloud.com#@jozveproxy

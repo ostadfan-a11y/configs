@@ -1,48 +1,1324 @@
-vmess://eyJhZGQiOiI4Mi4xOTguMjQ2Ljk3IiwiYWlkIjoiMCIsImhvc3QiOiJvbmUuY2YuY2RuLmh5bGkueHl6IiwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIxODAiLCJwcyI6IvCfh7rwn4e4IEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiDwn4e68J+HuCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#%F0%9F%87%AC%F0%9F%87%A7%20Join+Telegram:@Farah_VPN%20%F0%9F%87%AC%F0%9F%87%A7
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?security=reality&sni=yahoo.com&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20Join+Telegram:@Farah_VPN%20%F0%9F%87%BA%F0%9F%87%B8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.58.239:8388#%F0%9F%87%B3%F0%9F%87%B1%20Join+Telegram:@Farah_VPN%20%F0%9F%87%B3%F0%9F%87%B1
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.173:443?security=reality&sni=yahoo.com&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20Join+Telegram:@Farah_VPN%20%F0%9F%87%BA%F0%9F%87%B8
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@185.226.172.8:8008#%F0%9F%87%A9%F0%9F%87%AA%20Join+Telegram:@Farah_VPN%20%F0%9F%87%A9%F0%9F%87%AA
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.75:443?security=reality&sni=yahoo.com&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20Join+Telegram:@Farah_VPN%20%F0%9F%87%BA%F0%9F%87%B8
-vless://13da3f61-36bc-4f4f-9b49-4152de570bd3@172.67.161.109:443?security=tls&sni=1-m14.aYUTTHAYa-1.KdNs.Fr&alpn=http/1.1&fp=chrome&type=ws&path=/awsDCktnglce5OhBQMBK8JLBwh2V&host=1-m14.aYUTthaya-1.kdns.fr&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20Join+Telegram:@Farah_VPN%20%F0%9F%87%BA%F0%9F%87%B8
-vless://e99ba96d-dec8-42eb-be53-19e71eef7cab@5.253.42.164:40443?security=reality&sni=deepl.com&fp=firefox&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&sid=68a8&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%AE%F0%9F%87%B3%20Join+Telegram:@Farah_VPN%20%F0%9F%87%AE%F0%9F%87%B3
-vless://47a97b7f-044d-43d6-86b0-8b256873d1b5@45.121.50.241:50159?security=reality&sni=www.cloudflare.com&allowInsecure=1&fp=chrome&pbk=E9gCs_C_mSDcHmlCZSMk1kSXpmua48DhgsT_aDpZ1WE&sid=4c3f80051030ba1b&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%B9%F0%9F%87%BC%20Join+Telegram:@Farah_VPN%20%F0%9F%87%B9%F0%9F%87%BC
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@92.118.205.211:5600#%F0%9F%87%B5%F0%9F%87%B1%20Join+Telegram:@Farah_VPN%20%F0%9F%87%B5%F0%9F%87%B1
-vmess://eyJhZGQiOiI0Ny4yNDQuMTIwLjE5NyIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiI0NWI4MzUxOS05YzRmLTQwNTItYTExYi0wMmUwMTdiNjM2ZDQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraT9lZD0yMDQ4IiwicG9ydCI6IjM2NzAzIiwicHMiOiLwn4et8J+HsCBKb2luK1RlbGVncmFtOkBGYXJhaF9WUE4g8J+HrfCfh7AiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFQkRSbzlUSHg0Q3FpRlU3aDVnZm92NzZvTnd6WlVSQWgwWndiV2pCS2RkdFVodno=@103.120.178.193:31348#%F0%9F%87%AE%F0%9F%87%B3%20Join+Telegram:@Farah_VPN%20%F0%9F%87%AE%F0%9F%87%B3
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.212:443?security=reality&sni=yahoo.com&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20Join+Telegram:@Farah_VPN%20%F0%9F%87%BA%F0%9F%87%B8
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.15:443?security=reality&sni=yahoo.com&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20Join+Telegram:@Farah_VPN%20%F0%9F%87%BA%F0%9F%87%B8
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.184:443?security=reality&sni=yahoo.com&fp=ios&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20Join+Telegram:@Farah_VPN%20%F0%9F%87%BA%F0%9F%87%B8
-vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2053?security=reality&sni=vk.ru&fp=firefox&pbk=cGVu5j95KoeHBkWXveyTKolORbdvZm9g1T6yyo64ZBg&sid=d26f4703cdd30f4e&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%B1%F0%9F%87%BB%20Join+Telegram:@Farah_VPN%20%F0%9F%87%B1%F0%9F%87%BB
-vless://0b0915d7-6800-4580-a44b-77d84f105e6a@185.79.138.71:448?security=reality&sni=www.samsung.com&fp=chrome&pbk=CsDgNRcCwCkPIslfZpKTIK71KFpIFNsotbdzKcZVoH8&sid=cd21e552537c7c0b&type=tcp&encryption=none#%F0%9F%87%AB%F0%9F%87%AE%20Join+Telegram:@Farah_VPN%20%F0%9F%87%AB%F0%9F%87%AE
-vmess://eyJhZGQiOiIyMTYuMTA2LjE4NS4xNDEiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjIzMjQiLCJwcyI6IvCfh7rwn4e4IEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiDwn4e68J+HuCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vless://adce7c2a-3191-49ae-b61c-9b8258ea1b0e@89.208.113.16:443?security=&type=tcp&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20Join+Telegram:@Farah_VPN%20%F0%9F%87%AB%F0%9F%87%B7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@193.42.38.209:1080#%F0%9F%87%BA%F0%9F%87%B8%20Join+Telegram:@Farah_VPN%20%F0%9F%87%BA%F0%9F%87%B8
-vless://9f61cdf4-810d-4052-bbc7-2da0c8e20104@83.147.18.3:443?security=reality&sni=www.cloudflare.com&fp=chrome&pbk=3iVJAIGPx6JMlhlRmfpGrHkSmLpHJ4CPvBBH7KsFrFA&sid=fd8cf7e1173f0edb&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%AC%F0%9F%87%A7%20Join+Telegram:@Farah_VPN%20%F0%9F%87%AC%F0%9F%87%A7
-vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.22.155:443?security=reality&sni=2.oncloudnineservicestreang.com&fp=chrome&pbk=Mg3ZxHNUFbX96q1HpS3WReeM7rnhEsXXtlEzxALeTDc&sid=d8d3dc6c3ca45dd4&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Join+Telegram:@Farah_VPN%20%F0%9F%87%A9%F0%9F%87%AA
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445#%F0%9F%87%A8%F0%9F%87%A6%20Join+Telegram:@Farah_VPN%20%F0%9F%87%A8%F0%9F%87%A6
-vmess://eyJhZGQiOiI0My4xMzIuMTkyLjE2IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImFlODYyZTFkLTNiOGMtNDQzYS0wMjdiLTM3YzZjNjllZjQzYyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiOTUyNyIsInBzIjoi8J+HrfCfh7AgSm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOIPCfh63wn4ewIiwic2N5IjoiY2hhY2hhMjAtcG9seTEzMDUiLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-ss://2022-blake3-aes-256-gcm:fnvo82p9y4AKykZXyIFtnodFy6fQmWnVlI2SvGleOB0%3D@167.150.100.115:27755#%F0%9F%87%B8%F0%9F%87%AC%20Join+Telegram:@Farah_VPN%20%F0%9F%87%B8%F0%9F%87%AC
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#%F0%9F%87%BA%F0%9F%87%B8%20Join+Telegram:@Farah_VPN%20%F0%9F%87%BA%F0%9F%87%B8
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.206:23576?security=reality&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20Join+Telegram:@Farah_VPN%20%F0%9F%87%BA%F0%9F%87%B8
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.16:443?security=reality&sni=yahoo.com&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20Join+Telegram:@Farah_VPN%20%F0%9F%87%BA%F0%9F%87%B8
-vless://d51ed55c-d6dd-400b-aaf6-017c33969bfe@47.89.186.170:55861?security=reality&sni=www.intel.com&fp=firefox&pbk=t2ndf6SeVxinFCo5bcemnW_ZZhAtmHWiAkllks5qPWs&sid=7551ed1b&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20Join+Telegram:@Farah_VPN%20%F0%9F%87%BA%F0%9F%87%B8
-vmess://eyJhZGQiOiI0Ny4yNTAuMTM1LjI0NCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJhZWRjNjZiOC05OWQ3LTRhMjEtODMxMC02MTg3MGU3Zjg3MGQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIxMDAwMCIsInBzIjoi8J+HsvCfh74gSm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOIPCfh7Lwn4e+Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?security=&type=ws&path=/http&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Join+Telegram:@Farah_VPN%20%F0%9F%87%A9%F0%9F%87%AA
-vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.45.129:443?security=reality&sni=3.oncloudnineservicestreang.com&fp=firefox&pbk=dp-ncBuRHgZl5O80eHBYhSKo1i9qbt-J7MJ1alyWXmM&sid=1991780b928b292d&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Join+Telegram:@Farah_VPN%20%F0%9F%87%A9%F0%9F%87%AA
-vless://bc155a59-a4db-45e7-addf-db634b79757b@103.118.252.45:13131?security=&type=tcp&encryption=none#%F0%9F%87%AD%F0%9F%87%B0%20Join+Telegram:@Farah_VPN%20%F0%9F%87%AD%F0%9F%87%B0
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.216:23576?security=reality&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20Join+Telegram:@Farah_VPN%20%F0%9F%87%BA%F0%9F%87%B8
-vless://9e76cfb8-b7a6-40f6-c2aa-9905aa19f31b@47.83.153.19:59750?security=reality&sni=www.amd.com&fp=chrome&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%AD%F0%9F%87%B0%20Join+Telegram:@Farah_VPN%20%F0%9F%87%AD%F0%9F%87%B0
-trojan://bptHV5U91mWneB61rRKhCQ8f@87.121.218.169:443?security=tls&sni=87.121.218.169&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Join+Telegram:@Farah_VPN%20%F0%9F%87%A9%F0%9F%87%AA
-ss://YWVzLTI1Ni1nY206MWVhZGQ0ZTRhMzdiNjYwMQ==@45.8.158.176:10801#%F0%9F%87%B7%F0%9F%87%BA%20Join+Telegram:@Farah_VPN%20%F0%9F%87%B7%F0%9F%87%BA
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.19:23576?security=reality&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20Join+Telegram:@Farah_VPN%20%F0%9F%87%B3%F0%9F%87%B1
-vless://14777bd9-56a5-46f6-a94f-826b4800dc05@176.108.243.192:9880?security=reality&sni=dl.google.com&fp=qq&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aa&type=grpc&serviceName=grpc-tunnel&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Join+Telegram:@Farah_VPN%20%F0%9F%87%A9%F0%9F%87%AA
-vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?security=reality&sni=yahoo.com&fp=chrome&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e&type=tcp&encryption=none#%F0%9F%87%A6%F0%9F%87%B2%20Join+Telegram:@Farah_VPN%20%F0%9F%87%A6%F0%9F%87%B2
-vless://431fe973-a43a-4fac-bf83-2a772e0d0625@14.137.238.40:10000?security=&type=tcp&encryption=none#%F0%9F%87%AF%F0%9F%87%B5%20Join+Telegram:@Farah_VPN%20%F0%9F%87%AF%F0%9F%87%B5
-vless://fc1ee51e-72ec-4af0-ab0f-540c9e22427b@31.76.79.118:2444?security=reality&sni=www.cloudflare.com&fp=chrome&pbk=JsSTmS0VKNaHF-_QKYS-_utnS-LJuPOBrWcMbVE2RDA&sid=0809f782a29a2030&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20Join+Telegram:@Farah_VPN%20%F0%9F%87%B3%F0%9F%87%B1
-vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality&sni=aws.amazon.com&fp=chrome&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20Join+Telegram:@Farah_VPN%20%F0%9F%87%BA%F0%9F%87%B8
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.197:23576?security=reality&sni=fuck.rkn&allowInsecure=1&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20Join+Telegram:@Farah_VPN%20%F0%9F%87%BA%F0%9F%87%B8
-vless://cd477134-ffce-473a-8dca-8ce5fc6eb3eb@216.167.54.75:47212?security=&type=tcp&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20Join+Telegram:@Farah_VPN%20%F0%9F%87%BA%F0%9F%87%B8
-vless://814bd064-544d-4255-a070-5705c03f6da9@103.75.118.228:11452?security=reality&sni=www.apple.com&fp=chrome&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&sid=48050fab&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%AF%F0%9F%87%B5%20Join+Telegram:@Farah_VPN%20%F0%9F%87%AF%F0%9F%87%B5
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.104:443?security=reality&sni=yahoo.com&fp=ios&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20Join+Telegram:@Farah_VPN%20%F0%9F%87%BA%F0%9F%87%B8
+[8/19/2026 10:50] poroxybaz: 🚀 New Proxy List (ZA)
+Items: 10
+
+trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443?type=tcp&security=tls&fp=chrome&alpn=http%2F1.1#%40mehdisedighinasab%203386
+
+vless://4f166057-2f4c-0001-b5b3-6eb4413022e1@192.142.8.67:443?security=reality&encryption=none&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=md-editor.xyz&sid=1c3e8241a8743df9#%40mehdisedighinasab%205462
+
+vless://9c3f61dc-ab33-48d3-b829-bc1cad0f31f7@34.35.11.97:24822?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.icloud.com&fp=firefox&pbk=tZ1ioVafOFT_0m30INlvEDNFSj6tcNnG21aJQRy3zVo&sid=32a8bfa2939125&spx=%2F&type=tcp&headerType=none#%40mehdisedighinasab%209603
+
+vless://9c3f61dc-ab33-48d3-b829-bc1cad0f31f7@34.35.11.97:24822?security=reality&encryption=none&pbk=tZ1ioVafOFT_0m30INlvEDNFSj6tcNnG21aJQRy3zVo&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=32a8bfa2939125#%40mehdisedighinasab%207328
+
+vless://6179ce37-97b2-4ac7-9591-b4b2bfaca09d@109.121.44.81:443?&security=reality&flow=xtls-rprx-vision&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=0a4b7c3d&fp=firefox&sni=www.amd.com&type=tcp&headerType=&host=www.amd.com&path=%2F#%40mehdisedighinasab%206284
+
+vless://eb295947-24de-0001-9b8f-85431e5fe493@192.142.8.200:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=md-editor.xyz&fp=qq&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&allowinsecure=0&type=tcp&headerType=none#%40mehdisedighinasab%209792
+
+vless://eb295947-24de-0002-9b8f-85431e5fe493@192.142.23.45:443?type=tcp&security=reality&sni=qr-gen.cc&fp=chrome&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&sid=&flow=xtls-rprx-vision#%40mehdisedighinasab%204022
+
+vless://eb295947-24de-0003-9b8f-85431e5fe493@192.142.12.89:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&security=reality&sni=qr-gen.cc&type=tcp#%40mehdisedighinasab%201473
+
+vless://4f166057-2f4c-0002-b5b3-6eb4413022e1@192.142.23.99:443?security=reality&encryption=none&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=md-editor.xyz&sid=1c3e8241a8743df9#%40mehdisedighinasab%207028
+
+vless://4f166057-2f4c-0003-b5b3-6eb4413022e1@192.142.12.89:443?security=reality&encryption=none&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=qr-gen.cc&sid=1c3e8241a8743df9#%40mehdisedighinasab%208295
+
+🆔 @mehdisedighinasab  @poroxybaz
+[8/19/2026 10:50] poroxybaz: 🔵 New MTProto/Telegram Proxies
+Items: 10
+
+https://t.me/proxy?server=94.184.32.110&port=2020&secret=ee00000000000000000000000000000000
+
+https://t.me/proxy?server=api2.medhata.org&port=2443&secret=ee9d072ce3c5b43f6b422bb1e7fe983cc4617069322e6d6564686174612e6f7267
+
+https://t.me/proxy?server=webhook.what-ever.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169
+
+https://t.me/proxy?server=31.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
+
+https://t.me/proxy?server=ir.trust.me.mnbtm.li&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=172.65.105.80&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d
+
+https://t.me/proxy?server=panel.ai-protected.co.uk&port=443&secret=7hDjRIGHSb16xRkTAiDCXThwYW5lbC5haS1wcm90ZWN0ZWQuY28udWs=
+
+https://t.me/proxy?server=91.107.160.127&port=8443&secret=dd79e344818749bd7ac519130220c25d09
+
+https://t.me/proxy?server=94.184.32.120&port=2020&secret=dd00000000000000000000000000000000
+
+https://t.me/proxy?server=46.224.70.149&port=4443&secret=ee104462821249bd7ac519130220c8dd09
+
+🆔 @mehdisedighinasab  @poroxybaz
+[8/19/2026 11:00] poroxybaz: 🚀 New Proxy List (PE)
+Items: 3
+
+vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.228.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#%40mehdisedighinasab%208610
+
+vless://4caaaae0-516b-4026-b2b2-69fea69df19a@5r86-tuq187.operix.top:443?flow=xtls-rprx-vision&fp=chrome&pbk=LDpWYUJjGRJomvaN-gfgY96EJOF2DDHiFcNPEBLtoW0&security=reality&sid=9019bbea8ff8781e&sni=www.bing.com&type=tcp#%40mehdisedighinasab%201625
+
+vless://055dce30-0ee3-44c3-b680-be1c95b8d6e7@sfsk-tuq150.consultra.top:443?flow=xtls-rprx-vision&fp=chrome&pbk=g5UW6bf2soPSDNx7j0wanW_uLAtvTgQ8_lfztTJaP0k&security=reality&sid=7025c954ff913b4c&sni=www.bing.com&type=tcp#%40mehdisedighinasab%205233
+
+🆔 @mehdisedighinasab  @poroxybaz
+[8/19/2026 11:10] poroxybaz: 🚀 New Proxy List (SG)
+Items: 10
+
+vmess://eyJhZGQiOiIxMS5tYW1hbWFqZC5zaXRlIiwiYWlkIjoyLCJob3N0IjoiMTEubWFtYW1hamQuc2l0ZSIsImlkIjoiMzAxNjU0YWItMDhkNC0zOWZkLWFhMjYtZDlkMGQ3YThmNjJkIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjIzNjExLCJwcyI6IkBtZWhkaXNlZGlnaGluYXNhYiA3ODk3Iiwic2N5IjoiYXV0byIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@18.138.241.42:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f#%40mehdisedighinasab%209126
+
+trojan://PQ05174892@simple-rodent.rooster465.autos:443?type=tcp&security=tls&sni=simple-rodent.rooster465.autos&fp=chrome#%40mehdisedighinasab%206198
+
+trojan://FH72359861@topical-shark.rooster465.autos:443?security=tls#%40mehdisedighinasab%208855
+
+vmess://eyJ2IjoiMiIsInBzIjoiQG1laGRpc2VkaWdoaW5hc2FiIDc0NjMiLCJhZGQiOiIxNDkuODguMjMuMjAyIiwicG9ydCI6MTgwMDAsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoicmF3IiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6ImF1dG8iLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
+
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.212.93.192:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f#%40mehdisedighinasab%205026
+
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@18.142.115.66:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f#%40mehdisedighinasab%209999
+
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@18.141.169.77:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f#%40mehdisedighinasab%202350
+
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@47.129.254.65:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f#%40mehdisedighinasab%201874
+
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@47.129.104.91:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f#%40mehdisedighinasab%202924
+
+🆔 @mehdisedighinasab  @poroxybaz
+[8/19/2026 11:30] poroxybaz: 🚀 New Proxy List (AR)
+Items: 4
+
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@38.54.45.184:443?flow=xtls-rprx-vision-udp443&fp=edge&security=tls&sni=r1.mizulina.top#%40mehdisedighinasab%204172
+
+vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.216.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#%40mehdisedighinasab%205308
+
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@149.33.19.136:2053?fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#%40mehdisedighinasab%206112
+
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@38.54.45.184:443?flow=xtls-rprx-vision&fp=edge&security=tls&sni=r1.mizulina.top#%40mehdisedighinasab%205087
+
+🆔 @mehdisedighinasab  @poroxybaz
+[8/19/2026 11:30] poroxybaz: 🔵 New MTProto/Telegram Proxies
+Items: 10
+
+https://t.me/proxy?server=89.167.48.67&port=443&secret=dd79e7010200010007f0030386e24c3add
+
+https://t.me/proxy?server=seems.simbol.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+
+https://t.me/proxy?server=media9.happtg.org&port=443&secret=ee2e7c3d85e469cb8f825f4678a716a363706574726f766963682e7275&&channel=@baicai_dev
+
+https://t.me/proxy?server=89.34.230.97.orvenda.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA==
+
+https://t.me/proxy?server=media10.happtg.org&port=443&secret=eeecd508d816f611bb329487809f8dac88706574726f766963682e7275&&channel=@baicai_dev
+
+https://t.me/proxy?server=irancell-mci-rightell-adsl.mr-moo.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169&&channel=@baicai_dev
+
+https://t.me/proxy?server=media3.happtg.org&port=443&secret=ee8fc9c7632b344b1b76639c501ae7cfb5766b2e7275&&channel=@baicai_dev
+
+https://t.me/proxy?server=cdn7.cdnwave.org&port=443&secret=ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275&&channel=@baicai_dev
+
+https://t.me/proxy?server=46.62.227.16&port=443&secret=6b809dd6a92fe7f48a093e7524cb6561
+
+https://t.me/proxy?server=lazeyka-18.getvelora.space&port=443&secret=ee9d8875ade1930e8ae1fd7350efaf487b6f7a6f6e2e7275&&channel=@baicai_dev
+
+🆔 @mehdisedighinasab  @poroxybaz
+[8/19/2026 11:40] poroxybaz: 🚀 New Proxy List (CA)
+Items: 10
+
+vless://15ce0fde-88e2-42b0-91e6-e4a1b4568f6e@104.16.72.41:8880?&type=ws&headerType=none&host=old-truth-de8a.110-187.workers.dev&path=%2Fpyip#%40mehdisedighinasab%203127
+
+vless://f6e14309-5cff-4f5d-bce1-06a260159bbe@104.17.180.201:8880?security=none&type=ws&host=steep-bread-32f0.92-d12.workers.dev#%40mehdisedighinasab%202918
+
+vless://878dd962-027b-4bd3-a1f8-66be68a03c4d@104.26.6.214:8880?host=young-wind-3c58.240-2ce.workers.dev&path=%2F&security=none&sni=young-wind-3c58.240-2ce.workers.dev&type=ws#%40mehdisedighinasab%201285
+
+vless://fbca467d-cb8a-4dac-b513-efe5fdd5c591@188.114.96.0:443?path=/eyJqdW5rIjoiNFJaNVlsWmZ6TFVZaEdmUyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0&security=tls&alpn=http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=plaiN-shadow-821f.pFEGeHeJRrjrjjrJ.wOrKeRs.DeV#%40mehdisedighinasab%209343
+
+vless://8c56b4af-4762-4299-a1f8-799790dbaac7@104.21.88.129:8880?security=none&type=ws&host=lively-lab-4fd2.150-6f7.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#%40mehdisedighinasab%206052
+
+vless://26fb53e4-fd49-4b34-b605-b6cc1b1a06a8@104.17.181.19:8880?&security=none&type=ws&headerType=&host=royal-shape-3771.93-728.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#%40mehdisedighinasab%203535
+
+vless://84270e8b-567e-45c6-b2f2-56ec9a67ae1e@172.67.152.71:8880?security=none&sni=log.bpminecraft.com&type=ws&host=young-leaf-a723.162-4da.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#%40mehdisedighinasab%201466
+
+vless://a71c8954-66a8-4321-bedb-2336230d81ce@130.107.73.148:41373?security=reality&encryption=none&pbk=m0GsZOAwvAJEaqh9aH6qfOmBKo0KW0jY_tJEC6KaDEU&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=0e#%40mehdisedighinasab%207737
+
+vless://a8985e6a-f338-4b44-9a41-f94495603a96@104.21.56.202:8880?path=/pyip=ProxyIP.JP.CMLiussss.net&security=none&encryption=none&host=dawn-cell-346f.238-df6.workers.dev&type=ws#%40mehdisedighinasab%203223
+
+vless://b85c8be2-3109-4b8a-aa82-f0d8fe06f5ae@104.18.13.229:8880?host=young-dust-b8d9.31-8ba.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&type=ws#%40mehdisedighinasab%204108
+
+🆔 @mehdisedighinasab  @poroxybaz
+[8/19/2026 11:40] poroxybaz: 🔵 New MTProto/Telegram Proxies
+Items: 10
+
+https://t.me/proxy?server=qavi-fol9.ph-hans.ir.&port=8443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+
+https://t.me/proxy?server=admin.valmira.co.uk&port=25565&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
+
+https://t.me/proxy?server=opfks.ww.w.360r.ir&port=443&secret=dd79e7010200010007f0030386e24c3add
+
+https://t.me/proxy?server=75pib.life.198-44.ir.&port=8443&secret=ee6321048187495dfac59a030220c25d8e626973636f7474692e79656b74616e65742e636f6d
+
+https://t.me/proxy?server=inja.nistim.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=172.65.124.10&port=22&secret=dd00000000000000000000000000000000
+
+https://t.me/proxy?server=www.1-2-3-4-5.ir.&port=8443&secret=7hYDBIGHSV36xZoDAiDCXY53d3cueWFob28uY29t
+
+https://t.me/proxy?server=195.26.387-44qavi.ir.&port=8443&secret=ee1044048187495dfac59a030220c25cb3626973636f7474692e79656b74616e65742e636f6d
+
+https://t.me/proxy?server=nice-product.digikallamall.ir.&port=443&secret=7hYDBIGHSV36xZoDAiDCXY53d3cueWFob28uY29t
+
+https://t.me/proxy?server=www.serverfool.ir.&port=8443&secret=ee6321048187495dfac59a030220c25d8e7777772e7961686f6f2e636f6d
+
+🆔 @mehdisedighinasab  @poroxybaz
+[8/19/2026 11:50] poroxybaz: 🚀 New Proxy List (SI)
+Items: 1
+
+vless://fee5bf09-5d07-45e8-9a47-859b06694971@92.42.201.27:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&pbk=AYWvVCObGJ_5TnNMGj4z_UDSDzMJ3IcoRgIBCAeUWFs&fp=qq#%40mehdisedighinasab%202065
+
+🆔 @mehdisedighinasab  @poroxybaz
+[8/19/2026 11:50] poroxybaz: 🔵 New MTProto/Telegram Proxies
+Items: 10
+
+https://t.me/proxy?server=qavi-fol9.ph-hans.ir.&port=8443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+
+https://t.me/proxy?server=opfks.ww.w.360r.ir&port=443&secret=dd79e7010200010007f0030386e24c3add
+
+https://t.me/proxy?server=195.26.387-44qavi.ir.&port=8443&secret=ee1044048187495dfac59a030220c25cb3626973636f7474692e79656b74616e65742e636f6d
+
+https://t.me/proxy?server=www.veilhub.ir.&port=443&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d
+
+https://t.me/proxy?server=nice-product.digikallamall.ir.&port=443&secret=7hYDBIGHSV36xZoDAiDCXY53d3cueWFob28uY29t
+
+https://t.me/proxy?server=78.47.145.248&port=8443&secret=dd104462821249bd7ac519130220c25d09
+
+https://t.me/proxy?server=www.wwwjom.ir.&port=443&secret=ee1701186abd0ea60123192e26434f91a57777772e7961686f6f2e636f6d
+
+https://t.me/proxy?server=inja.nistim.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=172.65.124.10&port=22&secret=dd00000000000000000000000000000000
+
+https://t.me/proxy?server=faqat-vasl-sho.0-1-2-1.ir&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
+
+🆔 @mehdisedighinasab  @poroxybaz
+[8/19/2026 12:00] poroxybaz: 🚀 New Proxy List (IS)
+Items: 5
+
+trojan://p%3DXuu4jK_lJ9rOKw5%2B7BsW798DZ-01cv4S@37.235.49.118:443?security=tls&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0#%40mehdisedighinasab%202951
+
+vless://5c5a466e-f2e0-4211-8963-742afac24948@185.247.226.138:443?allow_insecure=0&fp=chrome&host=netmelivip.dpdns.org&path=%2Fxiron&security=tls&sni=netmelivip.dpdns.org&type=ws#%40mehdisedighinasab%203511
+
+trojan://p%3DXuu4jK_lJ9rOKw5+7BsW798DZ-01cv4S@37.235.49.118:443/?type=tcp&security=tls&sni=37.235.49.118#%40mehdisedighinasab%204418
+
+vless://f82944fe-9863-494a-9a2d-0f3120a774c6@82.22.53.30:448?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.googletagmanager.com&fp=firefox&pbk=0B7XMJC-mBqvUkf_on0wPZeW1iVmZIbEPVyvz-V_jRI&sid=60d7a9bbacadc0fb&type=tcp&headerType=none#%40mehdisedighinasab%204074
+
+vless://497631c4-a1a4-0045-a86a-f42873473bb6@151.236.24.67:8443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=auto.quattro-tech.ru&sid=43dcff53849b81e6#%40mehdisedighinasab%203835
+
+🆔 @mehdisedighinasab  @poroxybaz
+[8/19/2026 12:10] poroxybaz: 🚀 New Proxy List (IN)
+Items: 10
+
+vless://f4dbc770-016d-4a0f-82f0-d83ee6f45da3@5.8.35.72:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=zealous-glyph.cdn.cachefleet.com&fp=random&pbk=KOgPteoWEwtVtykS2FGV5NHdZw6197VzbITPGkUJDBQ&type=tcp&headerType=none#%40mehdisedighinasab%207361
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZtQDEwMy4xMTEuMTE0LjYxOjI4MDYx#%40mehdisedighinasab%204016
+
+vless://511c1563-2cb6-4064-abc6-a59ee49818a8@5.253.30.99:40443?flow=xtls-rprx-vision&fp=qq&host=v2raynplus--v2raynplus--v2raynplus&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&security=reality&sid=88b6&sni=deepl.com&spx=%2F&type=tcp#%40mehdisedighinasab%206516
+
+vless://ab7d5ea9-6eca-47c3-b14b-67378fc2d7c2@ind.tunnelx.space:443?&security=reality&flow=xtls-rprx-vision&pbk=loAFNSTbdM9g-9dyps76y996jHPfBNJBq5F5Vd0Sekw&sid=4e9b5c2d1a3f5748&fp=firefox&sni=ind.tunnelx.space&type=tcp&headerType=none&host=ind.tunnelx.space&path=%2F#%40mehdisedighinasab%204199
+
+vless://95e8532b-cc69-42d4-9553-e3c23292b15b@179.61.227.182:2083?type=grpc&security=reality&fp=random&pbk=jowOwf_cxg_FNpG36QJcyqBWtDItBBYjqj7VGhD2lnw&sid=d3124debabf1456c&sni=www.google.com&serviceName=grpc#%40mehdisedighinasab%208441
+
+vless://9c9f29d5-cf0d-49be-97fd-643e866752da@194.61.31.126:2053?type=tcp&security=reality&encryption=none&fp=chrome&pbk=f5Z_ywk2z0Yuj7ksyjawYC36qgxQngD8yGXEIPFNVGM&sid=30ed89c317118330&sni=www.apple.com#%40mehdisedighinasab%201232
+
+vless://df724c8a-5c5a-4859-974e-6e911b14955c@metrics.netraidly.ru:40443?type=tcp&security=reality&encryption=none&sni=deepl.com&fp=chrome&alpn=http%2F1.1&pbk=-sirwzF9HjIp1PVRK-z-2Ux39ufs6_W1cBw1cFoHXHc&sid=a852&spx=%2F&flow=xtls-rprx-vision&headerType=none#%40mehdisedighinasab%209056
+
+vmess://eyJhZGQiOiIxNTIuNjcuOC4yMDUiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjlkYjRjNzA4LWFlZjgtNDM1OS04MjFiLTM4ZTQ3OTkwYmUwZCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo4MCwicHMiOiJAbWVoZGlzZWRpZ2hpbmFzYWIgNTcyMyIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6ZmFsc2UsInNuaSI6IjE1Mi42Ny44LjIwNSJ9
+
+vless://df724c8a-5c5a-4859-974e-6e911b14955c@metrics.netraidly.ru:40443?type=tcp&headerType=none&security=reality&flow=xtls-rprx-vision&pbk=-sirwzF9HjIp1PVRK-z-2Ux39ufs6_W1cBw1cFoHXHc&fp=qq&sni=deepl.com&sid=a852&spx=%2F#%40mehdisedighinasab%204674
+
+vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.104.11:80?type=ws&host=Fastapi.Org&path=%2F#%40mehdisedighinasab%203622
+
+🆔 @mehdisedighinasab  @poroxybaz
+[8/19/2026 12:20] poroxybaz: 🚀 New Proxy List (CL)
+Items: 2
+
+vless://6f346289-e095-4b99-9304-416830c08e0a@64.176.23.205:8080?path=/t-me-V2RayyNGvpn&security=none&encryption=none&host=t.codmgiftcp.com&type=ws#%40mehdisedighinasab%207339
+
+vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.220.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#%40mehdisedighinasab%201021
+
+🆔 @mehdisedighinasab  @poroxybaz
+[8/19/2026 12:20] poroxybaz: 🔵 New MTProto/Telegram Proxies
+Items: 10
+
+https://t.me/proxy?server=iran-download.mr-moo.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169
+
+https://t.me/proxy?server=login.kerfilia.info&port=6775&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d
+
+https://t.me/proxy?server=51.158.201.116&port=443&secret=dd083fe0c452e2407d835537872f097c54
+
+https://t.me/proxy?server=irancell-mci-rightell-adsl.konstruktion.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169
+
+https://t.me/proxy?server=mio.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=Speed-speed.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
+
+https://t.me/proxy?server=team.fast--pro.co.uk.&port=443&secret=3RBEYoISSb16xRkTAiDCXQk%3D
+
+https://t.me/proxy?server=Hel-hi.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
+
+https://t.me/proxy?server=pb.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
+
+https://t.me/proxy?server=89.124.95.185&port=8443&secret=ee6403877430086085167456439119957338392e3132342e39352e313835
+
+🆔 @mehdisedighinasab  @poroxybaz
+[8/19/2026 12:30] poroxybaz: 🚀 New Proxy List (AU)
+Items: 10
+
+trojan://IQ68037294@eternal-frog.rooster465.autos:443?security=tls&amp;sni=eternal-frog.rooster465.autos#%40mehdisedighinasab%203722
+
+trojan://AE62539071@darling-mutt.rooster465.autos:443?security=tls#%40mehdisedighinasab%201069
+
+trojan://JA96378052@evident-gnat.rooster465.autos:443?security=tls&sni=evident-gnat.rooster465.autos&path=/#%40mehdisedighinasab%205990
+
+vless://94bcd9a9-33a9-40e4-a6fd-05e30db5b457@20.70.160.45:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=safari&pbk=140jRwI3SEyJezoVv7iFt2VEZOfDVu7CmPblFi2Q6ik&sid=5c333a77#%40mehdisedighinasab%209417
+
+trojan://AE62539071@wanted-marmoset.rooster465.autos:443?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=wanted-marmoset.rooster465.autos&fp=chrome#%40mehdisedighinasab%205567
+
+trojan://ON38567014@chief-antelope.rooster465.autos:443?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=chief-antelope.rooster465.autos&fp=chrome#%40mehdisedighinasab%205217
+
+trojan://AE62539071@wanted-marmoset.rooster465.autos:443?security=tls&amp;sni=wanted-marmoset.rooster465.autos&amp;path=%2f#%40mehdisedighinasab%202958
+
+vless://1641a422-2dff-45a5-846f-75ff8422b1dd@jfhdjdjdjdjekwkwjejdkhddb.ips-ipstatic.xyz:443?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=play.google.com&fp=chrome&pbk=OqBAjoEHKMfHz1bsj1nlRmehz_h_RnnYjHlWdQmK0T8&sid=5218bfb83fb5b9b8#%40mehdisedighinasab%201637
+
+trojan://FC60532879@welcome-labrador.rooster465.autos:443?security=tls&sni=welcome-labrador.rooster465.autos#%40mehdisedighinasab%208121
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUV0c3SjFLUjVLc1BhVjVxWkkrcmlldWVLeHhhZlpTcENIQDQ1Ljc3LjIzMi4yMTM6MTU2NzU=#%40mehdisedighinasab%202842
+
+🆔 @mehdisedighinasab  @poroxybaz
+[8/19/2026 12:30] poroxybaz: 🔵 New MTProto/Telegram Proxies
+Items: 10
+
+https://t.me/proxy?server=www.vipd.ir.&port=8443&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t
+
+https://t.me/proxy?server=wwww.namserver.dotadotnet.ir&port=443&secret=dd79e7010200010007f0030386e24c3add
+
+https://t.me/proxy?server=banana.w.dotadotnet.ir&port=443&secret=dd79e7010200010007f0030386e24c3add
+
+https://t.me/proxy?server=5.75.151.241&port=443&secret=104462821249bd7ac519130220c25d0945
+
+https://t.me/proxy?server=46.224.143.79&port=8080&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ****
+
+https://t.me/proxy?server=nyakawai.shop&port=443&secret=eefddb26d5047ce1787ece232a57832391617669746f2e7275
+
+https://t.me/proxy?server=love.roseprox.xyz&port=8443&secret=ee74e3501358c742b6ec0d4e5d8ffa2bf47777772e636c6f7564666c6172652e636f6d
+
+https://t.me/proxy?server=lazeyka-15.getvelora.space&port=443&secret=eeb7c7ecd2c1bcd4d648db4ce2d01063cf6f7a6f6e2e7275
+
+https://t.me/proxy?server=www.hezhins.w.dotadotnet.ir&port=443&secret=dd79e7010200010007f0030386e24c3add
+
+https://t.me/proxy?server=www.dripglow.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
+
+🆔 @mehdisedighinasab  @poroxybaz
+[8/19/2026 12:40] poroxybaz: 🔵 New MTProto/Telegram Proxies
+Items: 10
+
+https://t.me/proxy?server=s447n.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
+
+https://t.me/proxy?server=ving.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+tg://proxy?server=new.lambforkebeb.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=webhook.jinxandjack.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169
+
+tg://proxy?server=dns.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=benz.cras.co.im&port=144&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D
+
+https://t.me/proxy?server=cloud.click-master.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
+
+tg://proxy?server=7h66ggd7oo689azad.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
+
+tg://proxy?server=bezan-roo.connectina.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169
+
+https://t.me/proxy?server=god-mode-on.peachsoft.co.uk.&port=443&secret=eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169
+
+🆔 @mehdisedighinasab  @poroxybaz
+[8/19/2026 12:50] poroxybaz: 🚀 New Proxy List (TH)
+Items: 10
+
+vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@143.14.11.236:80?encryption=none&security=none&type=ws&host=d2e1v87ko56lyw.cloudfront.net%3Aassets.opensignal.com&path=%2F#%40mehdisedighinasab%204798
+
+vless://ff0c1cde-6f94-4bf1-9774-ab25c6b4977d@157.85.97.238:80/?type=ws&encryption=none&flow=&host=d7iwyzy9wpvuu.cloudfront.net&path=/knl8#%40mehdisedighinasab%207808
+
+trojan://Rm6JhT-Rz8H6Mjy3dtSglA@157.85.102.28:1084?security=none&type=raw&sni=157.85.102.28#%40mehdisedighinasab%209564
+
+vless://16ab4d4a-fd81-4535-9b7b-346677226ce8@th.cryptoofarm.com:8443?flow=xtls-rprx-vision&fp=firefox&pbk=DU06BFOa3xeqOPxjAxQMi00LvvJ5i1qnjFBJGFv03Q4&security=reality&sid=591076636be970d0&sni=th.cryptoofarm.com#%40mehdisedighinasab%203933
+
+vless://b93efa30-e2c5-401c-9ec7-22e30266cc60@157.85.102.28:1083?security=&encryption=none&headerType=none&type=tcp#%40mehdisedighinasab%206914
+
+vless://3c52e091-6714-4915-949f-2149fe69951b@v2ray.simspeedup.com:80?type=ws&path=%2Fws&host=aIs.SpEeDtEsT.nEt&sni=v2ray.simspeedup.com#%40mehdisedighinasab%203265
+
+vless://3c52e091-6714-4915-949f-2149fe69951b@V2rAy.SiMsPeEdUp.CoM:80?path=%2Fws&security=&encryption=none&host=aIs.SpEeDtEsT.nEt&type=ws#%40mehdisedighinasab%207475
+
+vless://3c52e091-6714-4915-949f-2149fe69951b@103.86.49.57:80?host=aIs.SpEeDtEsT.nEt&path=%2Fws&security=none&type=ws#%40mehdisedighinasab%203981
+
+vless://de27291c-15a9-4256-9ba7-ad517569877e@18.239.134.69:80/?type=ws&encryption=none&flow=&host=d2e1v87ko56lyw.cloudfront.net:assets.opensignal.com&path=/#%40mehdisedighinasab%207749
+
+vless://89c3b66f-c849-4602-a5a8-84b6f06af478@157.85.105.179:80?allowInsecure=1&sni=d2pwbkmfr5lxa4.cloudfront.net&type=ws&host=d2pwbkmfr5lxa4.cloudfront.net&path=/#%40mehdisedighinasab%204387
+
+🆔 @mehdisedighinasab  @poroxybaz
+[8/19/2026 12:50] poroxybaz: 🔵 New MTProto/Telegram Proxies
+Items: 10
+
+https://t.me/proxy?server=ragor-beger.ghamgin.co.im&port=443&secret=79e344818749bd7ac519130220c25d09
+
+https://t.me/proxy?server=nyakawai.shop&port=443&secret=eefddb26d5047ce1787ece232a57832391617669746f2e7275
+
+https://t.me/proxy?server=book.malavanann.co.uk&port=2096&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d
+
+https://t.me/proxy?server=5.75.151.241&port=443&secret=104462821249bd7ac519130220c25d0945
+
+https://t.me/proxy?server=194.60.228.66&port=8880&secret=dd79e344818749bd7ac519130220c25d09
+
+https://t.me/proxy?server=banana.w.dotadotnet.ir&port=443&secret=dd79e7010200010007f0030386e24c3add
+
+https://t.me/proxy?server=wwww.namserver.dotadotnet.ir&port=443&secret=dd79e7010200010007f0030386e24c3add
+
+https://t.me/proxy?server=www.hezhins.w.dotadotnet.ir&port=443&secret=dd79e7010200010007f0030386e24c3add
+
+https://t.me/proxy?server=hey.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=www.bazbaran-batrane.ir.&port=8443&secret=7hYDBIGHSV36xZoDAiDCXY5tZWRpYS5zdGVhbXBvd2VyZWQuY29t
+
+🆔 @mehdisedighinasab  @poroxybaz
+[8/19/2026 13:00] poroxybaz: 🚀 New Proxy List (BE)
+Items: 10
+
+vless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80?encryption=none&type=ws&path=/?ed#%40mehdisedighinasab%209712
+
+trojan://SrELvzRC7y7gMcypgQ8VSSSxzj354XEf@be-lb-rtt.netzrun.at:5222?security=tls&sni=be-lb-rtt.netzrun.at&fp=firefox#%40mehdisedighinasab%203288
+
+vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@109.69.218.207:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=crisp-titan.cdn.cachefleet.com&fp=random&pbk=8hse7wRRL-F66rQ-aAeetKTw0MSeJC7Rr6EaDeLzdCU#%40mehdisedighinasab%208528
+
+vless://4b7a69d9-74cd-4ab2-bfb3-1d2093e8179f@0u1b-m23jqv.jumpnest.top:443?flow=xtls-rprx-vision&fp=chrome&pbk=rwR7H9XhX1w-LjcPCZiDnzV_sUUyJRSJvGYhIYHmS3E&security=reality&sid=28bf2d7deea465ff&sni=www.bing.com&type=tcp#%40mehdisedighinasab%203579
+
+vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@109.69.218.206:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=kind-wolf.cdn.cachefleet.com&fp=random&pbk=8hse7wRRL-F66rQ-aAeetKTw0MSeJC7Rr6EaDeLzdCU#%40mehdisedighinasab%205383
+
+vless://82439eb0-2668-41f9-a7db-7c73b3ac5e42@109.69.218.165:443?type=tcp&headerType=none&security=reality&encryption=none&sni=lerua.xyz&fp=randomized&pbk=6rnKHCkFuVeaJjiXLnJhfzQpQRSlPt-i6USvnRFiUBg&sid=223d6eafc6c6e894&flow=xtls-rprx-vision#%40mehdisedighinasab%207199
+
+vless://939e56c2-7584-4b6c-8a78-f6f2fd4f0486@fsv22.v2bit.com:80?mode=packet-up&path=%2F&security=&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%2033554432%2C%20%22scMaxConcurrentPosts%22%3A%202048%2C%20%22scMinPostsIntervalMs%22%3A%201%2C%20%22xPaddingBytes%22%3A%20%22200-3000%22%2C%20%22noGRPCHeader%22%3A%20true%7D&host=v2shop00.global.ssl.fastly.net&type=xhttp#%40mehdisedighinasab%202399
+
+vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@109.69.218.207:443?security=reality&type=tcp&sni=bold-kestrel.cdn.cachefleet.com&fp=randomized&flow=xtls-rprx-vision&pbk=8hse7wRRL-F66rQ-aAeetKTw0MSeJC7Rr6EaDeLzdCU&encryption=none#%40mehdisedighinasab%201146
+
+vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@109.69.218.216:443?security=reality&encryption=none&pbk=8hse7wRRL-F66rQ-aAeetKTw0MSeJC7Rr6EaDeLzdCU&host=BIA_TELEGRAM?=@ShadowFlux2---@ShadowFlux2---@ShadowFlux2---@ShadowFlux2---@ShadowFlux2&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=bold-kestrel.cdn.cachefleet.com#%40mehdisedighinasab%205732
+
+vless://02719b9c-646e-4eb4-8d0d-b9dfd0d9511a@109.69.218.166:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=lerua.xyz&pbk=6rnKHCkFuVeaJjiXLnJhfzQpQRSlPt-i6USvnRFiUBg&sid=223d6eafc6c6e894#%40mehdisedighinasab%202979
+
+🆔 @mehdisedighinasab  @poroxybaz
+[8/19/2026 13:00] poroxybaz: 🔵 New MTProto/Telegram Proxies
+Items: 10
+
+https://t.me/proxy?server=skein.chunkycorp.shop&port=8443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275"
+
+https://t.me/proxy?server=uu66767iidip07066001.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
+
+https://t.me/proxy?server=aa00078998d88x00001.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
+
+https://t.me/proxy?server=abcd.server2-5mk.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
+
+https://t.me/proxy?server=89.117.222.103&port=8443&secret=EERighJJvXrFGRMCIMJdCQ&&channel=@baicai_dev
+
+https://t.me/proxy?server=2ddd1.mmd1.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
+
+https://t.me/proxy?server=85.155.96.25&port=443&secret=eeb611c4a66d9dcc85465c781aec33ed6379616e6465782e7275&&channel=@baicai_dev
+
+https://t.me/proxy?server=46.224.143.79&port=8080&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ**
+
+https://t.me/proxy?server=46.224.143.79&port=8080&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ
+
+https://t.me/proxy?server=93.113.230.218&port=443&secret=4772827e920fc13e1fd29c7ccda1a459
+
+🆔 @mehdisedighinasab  @poroxybaz
+[8/19/2026 13:10] poroxybaz: 🚀 New Proxy List (LT)
+Items: 10
+
+vless://a8b47d3d-0cb6-49ac-ad1c-8b079cb1a28f@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F%3Fed%3D2560&security=none&encryption=none&host=maxfr171.global.ssl.fastly.net&type=xhttp#%40mehdisedighinasab%209531
+
+vless://c1d62d53-2fcd-4951-ab96-c81486f59775@84.32.214.253:443?security=reality&flow=xtls-rprx-vision&sni=w-mebel.pro&type=tcp&fp=firefox&pbk=3ioSDy998cS2J-O6M9rzh8fDaybnOJ2PDPfd7ulFpH4&sid=51941b7edff5bc55#%40mehdisedighinasab%205088
+
+vless://8fea50e0-6444-47c0-98b1-c66b87ed33de@join.unlimiteddev.fastly80-3.hosting-ip.com:80?type=ws&host=JoinBede--Unlimiteddev--Unlimiteddev.iR.&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed%3D2480#%40mehdisedighinasab%203968
+
+vless://04b9e828-43ed-4faf-8952-41069ec08355@93.115.25.139:443?type=tcp&security=tls&encryption=none&fp=firefox&sni=ddc-chr2.astralweb.tech#%40mehdisedighinasab%209242
+
+vless://463a26c2-eba8-40ea-89c4-ee5c1373ccbe@dltch.mostserv.xyz:443?type=tcp&headerType=none&security=reality&encryption=none&sni=dltch.mostserv.xyz&fp=firefox&pbk=bIUHw7kqfyS6-6d7yYjzyXSlc4_CrLZqzdf3KBQfly8&flow=xtls-rprx-vision#%40mehdisedighinasab%208863
+
+vless://TELEGRAM-CONFiGLiNE-104@ip.fastlynew.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=&encryption=none&host=barakanal4.global.ssl.fastly.net&type=xhttp#%40mehdisedighinasab%207696
+
+vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.90:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&fp=firefox&security=reality&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0#%40mehdisedighinasab%204694
+
+vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.162:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&fp=firefox&security=reality&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0#%40mehdisedighinasab%202881
+
+vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.157:8443?security=reality&flow=xtls-rprx-vision&sni=storage.yandex.net&type=tcp&fp=firefox&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0#%40mehdisedighinasab%207277
+
+vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.242:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&fp=firefox&security=reality&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0#%40mehdisedighinasab%201280
+
+🆔 @mehdisedighinasab  @poroxybaz
+[8/19/2026 13:10] poroxybaz: 🔵 New MTProto/Telegram Proxies
+Items: 10
+
+https://t.me/proxy?server=88797a77all.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
+
+tg://proxy?server=panel.hook--tehran.co.uk.&port=443&secret=3RBEYoISSb16xRkTAiDCXQk%3D
+
+tg://proxy?server=forward-gree.server-space52.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
+
+https://t.me/proxy?server=hey.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+tg://proxy?server=7h6ggfd7oo689azad.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
+
+tg://proxy?server=beest-sellerst.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
+
+https://t.me/proxy?server=download.lv426.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169
+
+tg://proxy?server=puot.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+tg://proxy?server=new2.lambforkebeb.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+tg://proxy?server=41.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
+
+🆔 @mehdisedighinasab  @poroxybaz
+[8/19/2026 13:20] poroxybaz: 🚀 New Proxy List (IE)
+Items: 10
+
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@45.141.234.219:13868?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=XkqVl2cyWFosUZRHlg55Iek6KzLEoT_OPzuoErgWfWg&sid=e852dc&sni=amd.com#%40mehdisedighinasab%205875
+
+trojan://OD90375861@wired-tick.rooster465.autos:443?security=tls#%40mehdisedighinasab%209530
+
+vless://5c5a466e-f2e0-4211-8963-742afac24948@107.172.145.153:443?allow_insecure=0&fp=chrome&host=netmelivip.dpdns.org&path=%2Fxiron&security=tls&sni=netmelivip.dpdns.org&type=ws#%40mehdisedighinasab%207911
+
+vless://c9399d16-a0ae-451a-d069-39280bc363f4@52.19.138.237:8443?&security=tls&fp=chrome&sni=us2.wxgqlfx.icu&type=ws&headerType=&host=us2.wxgqlfx.icu&path=%2FTG%40wxgqlfx#%40mehdisedighinasab%206727
+
+trojan://PQ05174892@concise-bass.rooster465.autos:443?type=tcp&security=tls&sni=concise-bass.rooster465.autos&fp=chrome#%40mehdisedighinasab%203108
+
+vless://ac5313ae-803b-4104-a047-94c97ecb621e@85.159.229.77:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=lHCkAu_DOVFtE-iL2JGrPt44QeTCFijXuRfuGaSni3Q&security=reality&sid=9e4eced6e98ed4d4&sni=ie.orpheous.ru&type=tcp#%40mehdisedighinasab%207054
+
+trojan://XG59623478@singular-lark.rooster465.autos:443?security=tls&sni=singular-lark.rooster465.autos#%40mehdisedighinasab%202597
+
+vless://c04bf2df-2b7f-44da-a893-3792d3910fd8@ire01.myxasecure.space:443?security=reality&flow=xtls-rprx-vision&type=raw&sni=ire01.myxasecure.space&fp=qq&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&sid=d67ec5a8fc40ebea#%40mehdisedighinasab%205186
+
+trojan://AE62539071@helped-haddock.rooster465.autos:443?security=tls#%40mehdisedighinasab%209095
+
+trojan://IQ68037294@moving-wren.rooster465.autos:443?type=raw&headerType=none&security=tls&sni=moving-wren.rooster465.autos#%40mehdisedighinasab%206143
+
+🆔 @mehdisedighinasab  @poroxybaz
+[8/19/2026 13:20] poroxybaz: 🔵 New MTProto/Telegram Proxies
+Items: 10
+
+https://t.me/proxy?server=5.75.151.241&port=443&secret=104462821249bd7ac519130220c25d0945
+
+https://t.me/proxy?server=book.malavanann.co.uk&port=2096&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d
+
+https://t.me/proxy?server=love.roseprox.xyz&port=8443&secret=ee74e3501358c742b6ec0d4e5d8ffa2bf47777772e636c6f7564666c6172652e636f6d
+
+https://t.me/proxy?server=banana.w.dotadotnet.ir&port=443&secret=dd79e7010200010007f0030386e24c3add
+
+https://t.me/proxy?server=194.60.228.66&port=8880&secret=dd79e344818749bd7ac519130220c25d09
+
+https://t.me/proxy?server=46.224.143.79&port=8080&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ****
+
+https://t.me/proxy?server=www.dripglow.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
+
+https://t.me/proxy?server=hey.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=nyakawai.shop&port=443&secret=eefddb26d5047ce1787ece232a57832391617669746f2e7275
+
+https://t.me/proxy?server=www.bazbaran-batrane.ir.&port=8443&secret=7hYDBIGHSV36xZoDAiDCXY5tZWRpYS5zdGVhbXBvd2VyZWQuY29t
+
+🆔 @mehdisedighinasab  @poroxybaz
+[8/19/2026 13:30] poroxybaz: 🚀 New Proxy List (NL)
+Items: 10
+
+vless://40de6299-d792-4868-8a82-411ead0aa943@144.124.248.186:443?encryption=none&flow=xtls-rprx-vision&pbk=L0acYoTxKR5ix7LXAmP10cy06n2JjgkXTojGjtWAqww&security=reality&sid=ed7b9bdfedb9b8e5&sni=gateway.icloud.com&type=tcp#%40mehdisedighinasab%208179
+
+vless://e73df646-1f62-41bf-8c50-653497d603d0@163.172.213.174:80?encryption=none&type=ws&path=%2Fvless%2F&host=SC-TheNetherlands2.09vpn.comfreenettirThe#%40mehdisedighinasab%208211
+
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.75:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&sid=82f5d3a1e9c0b661&sni=getsavesafe.net#%40mehdisedighinasab%203791
+
+vless://5e19b3c8-c1dc-4163-95e2-895319c15d6c@77.110.111.18:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=sfqx3Ie9Php87bfw3vPHRBizjWZje61abU3F-xNqxi4&sid=108da5a6fad4da65&sni=storage.yandex.net#%40mehdisedighinasab%206979
+
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.93:23576?flow=xtls-rprx-vision&fp=random&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sni=fuck.rkn&type=tcp#%40mehdisedighinasab%202880
+
+vless://896002a8-3afc-49e6-8fac-5129fb717b49@83.138.53.189:443?type=grpc&security=reality&fp=firefox&pbk=-yJaCCGsucUDEnTTn6VJJyF0R5ZLlJAVNeIXFJYSGn8&sid=361c68748712c743&sni=centraleurope.koexp.ru&serviceName=grpc#%40mehdisedighinasab%205796
+
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@195.184.247.249:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=6z3YcVP0f2pK3iANKIkBUZOgNeErDjxY83mHZG5jrnI&sid=f63805c3ecc7a483&sni=savesafe.co#%40mehdisedighinasab%202548
+
+vless://91d0fa43-e557-43e7-a731-f0c3d1fb306a@89.105.208.123:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c&sni=n1.cloudgaming.one&fp=qq#%40mehdisedighinasab%204159
+
+vless://62a08ea5-0564-47b4-a92c-25be07ad6358@94.183.208.202:443?type=grpc&security=reality&fp=firefox&pbk=ne8wv6o6AYcQoVvz30PiTjSxviGa3_Kw5ClIEDdg-3A&sid=6ba85179e30d4fc2&sni=360.yandex.ru&serviceName=grpc&spx=/#%40mehdisedighinasab%202285
+
+vless://f346f223-ebf6-4da3-955e-425de7e9c372@79.137.199.52:21?security=tls&type=ws&path=%2F%40Marisa_kristi&host=8n9qi6t-owl.gevc9s4n60cc3wzcmwhjyezydpmbchocxp.workers.dev&packetEncoding=xudp&sni=8n9qi6t-owl.gevc9s4n60cc3wzcmwhjyezydpmbchocxp.workers.dev&fp=chrome&encryption=none#%40mehdisedighinasab%207272
+
+🆔 @mehdisedighinasab  @poroxybaz
+[8/19/2026 13:30] poroxybaz: 🔵 New MTProto/Telegram Proxies
+Items: 10
+
+https://t.me/proxy?server=www.hezhins.w.dotadotnet.ir&port=443&secret=dd79e7010200010007f0030386e24c3add
+
+https://t.me/proxy?server=banana.w.dotadotnet.ir&port=443&secret=dd79e7010200010007f0030386e24c3add
+
+https://t.me/proxy?server=ragor-beger.ghamgin.co.im&port=443&secret=79e344818749bd7ac519130220c25d09
+
+https://t.me/proxy?server=wwww.namserver.dotadotnet.ir&port=443&secret=dd79e7010200010007f0030386e24c3add
+
+https://t.me/proxy?server=46.224.143.79&port=8080&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ****
+
+https://t.me/proxy?server=nyakawai.shop&port=443&secret=eefddb26d5047ce1787ece232a57832391617669746f2e7275
+
+https://t.me/proxy?server=194.60.228.66&port=8880&secret=dd79e344818749bd7ac519130220c25d09
+
+https://t.me/proxy?server=www.vipd.ir.&port=8443&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t
+
+https://t.me/proxy?server=hey.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=5.75.151.241&port=443&secret=104462821249bd7ac519130220c25d0945
+
+🆔 @mehdisedighinasab  @poroxybaz
+[8/19/2026 13:40] poroxybaz: 🚀 New Proxy List (EG)
+Items: 2
+
+trojan://u.0c3S2V328E6hb8DVhZTNaIzFZX1+aY1J@38.60.226.48:443/?type=tcp&security=tls#%40mehdisedighinasab%207160
+
+ss://YWVzLTI1Ni1nY206MjgwMzM2MWQ2YzE5NmFmOA==@166.1.228.172:30888#%40mehdisedighinasab%208895
+
+🆔 @mehdisedighinasab  @poroxybaz
+[8/19/2026 13:40] poroxybaz: 🔵 New MTProto/Telegram Proxies
+Items: 10
+
+https://t.me/proxy?server=ragor-beger.ghamgin.co.im&port=443&secret=79e344818749bd7ac519130220c25d09
+
+https://t.me/proxy?server=banana.w.dotadotnet.ir&port=443&secret=dd79e7010200010007f0030386e24c3add
+
+https://t.me/proxy?server=www.hezhins.w.dotadotnet.ir&port=443&secret=dd79e7010200010007f0030386e24c3add
+
+https://t.me/proxy?server=www.vipd.ir.&port=8443&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t
+
+https://t.me/proxy?server=www.dripglow.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
+
+https://t.me/proxy?server=lazeyka-15.getvelora.space&port=443&secret=eeb7c7ecd2c1bcd4d648db4ce2d01063cf6f7a6f6e2e7275
+
+https://t.me/proxy?server=5.75.151.241&port=443&secret=104462821249bd7ac519130220c25d0945
+
+https://t.me/proxy?server=love.roseprox.xyz&port=8443&secret=ee74e3501358c742b6ec0d4e5d8ffa2bf47777772e636c6f7564666c6172652e636f6d
+
+https://t.me/proxy?server=www.bazbaran-batrane.ir.&port=8443&secret=7hYDBIGHSV36xZoDAiDCXY5tZWRpYS5zdGVhbXBvd2VyZWQuY29t
+
+https://t.me/proxy?server=hey.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+🆔 @mehdisedighinasab  @poroxybaz
+[8/19/2026 13:50] poroxybaz: 🚀 New Proxy List (EG)
+Items: 2
+
+trojan://u.0c3S2V328E6hb8DVhZTNaIzFZX1+aY1J@38.60.226.48:443/?type=tcp&security=tls#%40mehdisedighinasab%207905
+
+ss://YWVzLTI1Ni1nY206MjgwMzM2MWQ2YzE5NmFmOA==@166.1.228.172:30888#%40mehdisedighinasab%209775
+
+🆔 @mehdisedighinasab  @poroxybaz
+[8/19/2026 13:50] poroxybaz: 🔵 New MTProto/Telegram Proxies
+Items: 10
+
+https://t.me/proxy?server=2.27.13.87&port=443&secret=eecbacc37ce9e2bb466ed5c782c6e64f607a6f6f6d2e7573&&channel=@baicai_dev
+
+https://t.me/proxy?server=65.21.234.20&port=443&secret=ee79e7010200010007f0030386e24c3add
+
+https://t.me/proxy?server=beest-sellerst.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
+
+https://t.me/proxy?server=65.109.219.100&port=4455&secret=104462821249bd7ac519130220c25d09
+
+https://t.me/proxy?server=91.107.170.251&port=8443&secret=ee79e344818749bd7ac519130220c25d09
+
+https://t.me/proxy?server=57.128.28.1&port=6550&secret=dd79e344818749bd7ac519130220c25d09
+
+https://t.me/proxy?server=89.117.222.149&port=8443&secret=dd104462821249bd7ac519130220c25d09
+
+https://t.me/proxy?server=sal.mahanam.info&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t
+
+https://t.me/proxy?server=5.223.84.207&port=443&secret=dd79e7010200010007f0030386e24c3add&&channel=@baicai_dev
+
+https://t.me/proxy?server=93.113.230.242&port=443&secret=3dd937dd5a1748b47505d32759b12c35
+
+🆔 @mehdisedighinasab  @poroxybaz
+[8/19/2026 14:00] poroxybaz: 🚀 New Proxy List (PL)
+Items: 10
+
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@94.183.157.121:13443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&sid=a7f3c91b2e6d84c0&sni=auto.cendora.ru#%40mehdisedighinasab%205111
+
+vless://5710bc50-f5ff-4d19-a3f5-067959ed2644@144.31.2.50:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&sid=00a61d55a07de885&sni=pl.convert-flow.net#%40mehdisedighinasab%201074
+
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAOTIuMTE4LjIwNS4yMTE6NTYwMA==#%40mehdisedighinasab%207348
+
+vless://5710bc50-f5ff-4d19-a3f5-067959ed2644@144.31.2.85:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&sid=00a61d55a07de885&sni=pl.convert-flow.net#%40mehdisedighinasab%202587
+
+vless://f6da8274-44be-4599-a8d8-66929c980677@185.241.208.89:2054?type=grpc&security=reality&fp=firefox&pbk=OyptJTnaUSyaiYY3_iB-Lrst04EoVetdB1ZMoHDViyI&sid=e5fe88d9c232c341&sni=www.ibm.com&serviceName=grpc#%40mehdisedighinasab%205159
+
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@78.17.109.189:13868?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=YxGdcVKnOjKUtaG-E68lzI_rd9DI5RvsbLY0qyMFX2w&sid=e852dc&sni=wp.pl#%40mehdisedighinasab%204600
+
+vless://bf3d436d-cbc0-49b6-a818-45d190949212@144.31.4.200:26819?type=grpc&security=reality&fp=randomized&pbk=G5ssqwHdO3WY07IIqqJ3eszJbUm2NfshymcbQU5CEw4&sid=1a6b1f9d0e&sni=www.nvidia.com&serviceName=api/v1/sync/#%40mehdisedighinasab%208468
+
+vless://8787dd0a-095a-414e-804f-a7d16a1ae166@2.26.255.36:8443?security=tls&flow=xtls-rprx-vision&sni=po1.hys.braidx.tech&type=tcp&fp=firefox#%40mehdisedighinasab%209030
+
+vless://8033102198@144.31.112.199:443?alpn=http/1.1&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=pl2.fast-connect-service.site&type=tcp#%40mehdisedighinasab%209246
+
+vless://8033102198@144.31.171.233:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=pl6.fast-connect-service.site&alpn=h2%2Chttp%2F1.1&fp=firefox#%40mehdisedighinasab%203191
+
+🆔 @mehdisedighinasab  @poroxybaz
+[8/19/2026 14:00] poroxybaz: 🔵 New MTProto/Telegram Proxies
+Items: 10
+
+https://t.me/proxy?server=annulation.pretypify.updraft.pilipinoteleserye.com&port=443&secret=eefdad83d47ba2c0b3e3657dc37af911fb647a656e2e7275
+
+https://t.me/proxy?server=cardiograph.hypostasis.trochantin.teleseryeshd.com&port=443&secret=eed1ba4d13011067ba4614d7a5d00cee02647a656e2e7275
+
+https://t.me/proxy?server=live.rkn.dog&port=443&secret=ee4db1456ea553ca3c291ea2df13762d986c6976652e726b6e2e646f67
+
+https://t.me/proxy?server=43.159.7.5&port=55594&secret=dd7e2d083ae095cf4e4c152fdad00e377f
+
+https://t.me/proxy?server=195.254.165.253&port=25565&secret=dd79e344818749bd7ac519130220c25d09
+
+https://t.me/proxy?server=195.254.165.250&port=25565&secret=dd79e344818749bd7ac519130220c25d09
+
+https://t.me/proxy?server=157.228.138.234&port=443&secret=ee16056e3a39c929f9ba1fb5787af7258e6d2e6265626f6f2e7275
+
+https://t.me/proxy?server=achromat.bandoleer.middling.teleseryeepisodes.com&port=443&secret=ee0fb42049d10ac4fbec237e2e1e464c6d647a656e2e7275
+
+https://t.me/proxy?server=207.148.71.230&port=443&secret=57fead292571e8c81dd4fdf3e9dfc33d
+
+https://t.me/proxy?server=38.246.245.30&port=2000&secret=eeb148aece20418b54b24b7651d406f83c6173703330302e636e
+
+🆔 @mehdisedighinasab  @poroxybaz
+[8/19/2026 14:10] poroxybaz: 🚀 New Proxy List (NO)
+Items: 10
+
+vless://6068d9ac-d712-4558-8919-222714bc9d00@fardad-no.football-player.ir:6800?encryption=none&security=reality&sni=play.google.com&fp=qq&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&type=tcp&headerType=none#%40mehdisedighinasab%205677
+
+vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@144.31.128.199:443?type=grpc&security=reality&encryption=none&sni=stashfuro-eweqee.ru&fp=chrome&alpn=http%2F1.1&pbk=qmQgs_yOloyjj9xqDjbaUqGlhWwp6ReBpBB99Qfi2CU&sid=0bc73dd1f045&headerType=none&serviceName=nexusGrpc#%40mehdisedighinasab%208479
+
+vless://23a13f14-7f85-4975-8aa8-6f4f21ea97ca@4.235.112.49:2040?encryption=none#%40mehdisedighinasab%206696
+
+vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@144.31.128.199:443?encryption=none&security=reality&sni=stashfuro-eweqee.ru&pbk=qmQgs_yOloyjj9xqDjbaUqGlhWwp6ReBpBB99Qfi2CU&sid=0bc73dd1f045&type=grpc&authority=&serviceName=nexusGrpc&mode=gun#%40mehdisedighinasab%208777
+
+vless://a259227e-aeba-4f8c-bb4b-5bdabdb277cc@no-fardad.oorluma.ir:6800?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&sni=play.google.com&encryption=none&headerType=none&type=tcp&security=reality&fp=qq#%40mehdisedighinasab%205780
+
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.5.26:13443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&sid=a7f3c91b2e6d84c0&sni=auto.cendora.ru#%40mehdisedighinasab%202227
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@ba1.levikogjgfdd.ir:1080#%40mehdisedighinasab%206991
+
+vless://67f37ffe-c8c4-4ced-8f9c-5b45738224f1@Erlingbrathalland.hchdhsbs12gd.ir:7006?security=reality&encryption=none&pbk=0QdpIQcpbMkJCpL1XY0soedKEfJfHgIKz3tWmjLa6yE&headerType=none&fp=qq&type=tcp&sni=play.google.com#%40mehdisedighinasab%205742
+
+vless://2372f9bc-bb0b-4adc-909f-cf8f0252a880@fardad-no.lorluma.ir:6800?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#%40mehdisedighinasab%206214
+
+vless://cf875231-a636-4939-a584-625312fc78dd@no-fardad.oorluma.ir:6800?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#%40mehdisedighinasab%203602
+
+🆔 @mehdisedighinasab  @poroxybaz
+[8/19/2026 14:20] poroxybaz: 🚀 New Proxy List (XX)
+Items: 10
+
+vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@po.fastbrokencompony.com:2053?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=&fp=chrome&type=ws&sni=#%40mehdisedighinasab%206778
+
+vless://0787cfdb-9930-4abb-8419-c1b96c3ef628@skk.moe:8880?encryption=none&type=ws&host=red-snowflake-c399.12-ee1.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none#%40mehdisedighinasab%203519
+
+vless://fc46b03d-e185-48e7-8c18-dea03b4a0c25@www.ipget.net:8880?path=%2Fpyip&security=none&encryption=none&host=flat-union-b292.17-4e0.workers.dev&type=ws#%40mehdisedighinasab%203137
+
+vless://d702b5e4-412d-4859-a528-3fc0b91f6fc0@log.bpminecraft.com:8880?path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none&encryption=none&host=wild-math-3ef2.439.workers.dev&type=ws#%40mehdisedighinasab%207549
+
+vless://476bdb75-0d9b-49f2-a492-4cd68f594d32@grimness-backlogs.cdn-content.com:443?&security=tls&fp=chrome&packet-encoding=xudp&alpn=http%2F1.1&sni=grimness-backlogs.cdn-content.com&type=ws&headerType=none&host=grimness-backlogs.cdn-content.com&path=%2Fws#%40mehdisedighinasab%207483
+
+vless://bd3eb105-b048-47fa-9a1d-63a66f9830a2@log.bpminecraft.com:8880?&type=ws&headerType=none&host=misty-flower-4d15.372-912.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#%40mehdisedighinasab%208722
+
+vless://e4dc8a93-ddfc-4f70-b97f-bbc04b0b6c7b@tsarlive.dpdns.org:443?&security=tls&fp=chrome&sni=tsarlive.dpdns.org&type=ws&headerType=none&host=tsarlive.dpdns.org&path=%2Ftsar-tun#%40mehdisedighinasab%207581
+
+vless://2f142ede-d555-4ceb-b005-7df31b484be3@anydesk.com:8880?&security=false&fp=chrome&type=ws&headerType=none&host=bitter-pine-001c.450-e0e.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#%40mehdisedighinasab%203915
+
+vless://2b8738de-1af5-4267-b101-c05707769ed4@fans.liverpool.qzz.io:2083?encryption=none&type=ws&host=fans.liverpool.qzz.io&path=%2FeyJqdW5rIjoiY0Y0cENQUmxsNyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&fp=chrome&sni=FANs.LIVeRPOol.QZz.IO#%40mehdisedighinasab%209517
+
+vless://7812d96c-fbd5-4689-a480-e359dde49b7b@www.speedtest.net:443?&security=tls&fp=chrome&packet-encoding=xudp&sni=BPb-F23dDEdd.JCXkvlnDL.WOrkERS.deV&type=ws&headerType=none&host=BPb-F23dDEdd.JCXkvlnDL.WOrkERS.deV&path=%2FeyJqdW5rIjoiWWdUTFZiaTRQU3YiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119#%40mehdisedighinasab%205906
+
+🆔 @mehdisedighinasab  @poroxybaz
+[8/19/2026 14:20] poroxybaz: 🔵 New MTProto/Telegram Proxies
+Items: 10
+
+https://t.me/proxy?server=nasaji.estakhr.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+
+https://t.me/proxy?server=opps.runserver.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=0006dyaa000x00001.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
+
+https://t.me/proxy?server=panel-portal.managep.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
+
+https://t.me/proxy?server=sdfree.mahanam.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
+
+https://t.me/proxy?server=goodman.lamari.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+
+https://t.me/proxy?server=saadi.masnavi.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+
+https://t.me/proxy?server=biaberim.estakhr.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+
+https://t.me/proxy?server=77isiuu66766001.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
+
+https://t.me/proxy?server=jounob-iran-dar-ghalb-mast.simbol.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+
+🆔 @mehdisedighinasab  @poroxybaz
+[8/19/2026 14:30] poroxybaz: 🚀 New Proxy List (CY)
+Items: 10
+
+vless://5aca6fb1-b21a-4f63-9cab-54986613f6aa@91.148.135.191:54217?security=none&encryption=none&headerType=none&type=tcp#%40mehdisedighinasab%209165
+
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@api-endpoint.rest:443?type=tcp&headerType=none&security=reality&encryption=none&sni=api-endpoint.rest&fp=qq&pbk=XW9rKSbrkI0ehSHTieUsCpvhJ1_Wib9MDPZG8JafD0s&sid=19fbc4c7dd3d3d5a&flow=xtls-rprx-vision#%40mehdisedighinasab%206164
+
+vless://0c6b632a-cd96-4b74-9b51-151e3b5697db@pol2.neobo-tooth.ru:2083?flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%40mehdisedighinasab%209765
+
+vless://5d680dcf-88a5-4ea4-b799-0a12ef2c0dfd@ee1.samovargate.com:443?&security=reality&flow=xtls-rprx-vision&pbk=gwuAehnMX6e-n1fxIenfjx43j3qXXi7Cb4wfnW5VyBQ&sid=f04729f65b9ea261&fp=firefox&sni=ee1.samovargate.com&type=tcp&headerType=none&host=ee1.samovargate.com&path=%2F#%40mehdisedighinasab%206214
+
+vless://c04bf2df-2b7f-44da-a893-3792d3910fd8@cur02.myxasecure.space:443?security=reality&flow=xtls-rprx-vision&type=raw&sni=cur02.myxasecure.space&fp=qq&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&sid=d67ec5a8fc40ebea#%40mehdisedighinasab%208397
+
+trojan://3723507166611775488@195.133.93.81:443?type=tcp&security=tls&sni=sensible-ocelot.boa152.lol&fp=chrome&alpn=http%2F1.1#%40mehdisedighinasab%202979
+
+vless://0c6b632a-cd96-4b74-9b51-151e3b5697db@91.92.21.82:2083/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=pol2.neobo-tooth.ru&allowInsecure=1&fp=chrome#%40mehdisedighinasab%209127
+
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@api-endpoint.rest:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&flow=xtls-rprx-vision&fp=&pbk=XW9rKSbrkI0ehSHTieUsCpvhJ1_Wib9MDPZG8JafD0s&security=reality&sid=19fbc4c7dd3d3d5a&sni=&type=tcp#%40mehdisedighinasab%206635
+
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@195.85.59.187:2095?security=none&type=ws&host=cnmfangbinxingnmsl.cnm--fangbinxing.workers.dev&path=/#%40mehdisedighinasab%203062
+
+vless://bb83cd54-e6c0-441d-823a-71443ff34686@203.28.8.85:2052?path=%2F&security=none&encryption=none&host=tau.configs.sbs&type=ws#%40mehdisedighinasab%206786
+
+🆔 @mehdisedighinasab  @poroxybaz
+[8/19/2026 14:30] poroxybaz: 🔵 New MTProto/Telegram Proxies
+Items: 10
+
+https://t.me/proxy?server=195.254.165.250&port=25565&secret=dd79e344818749bd7ac519130220c25d09
+
+https://t.me/proxy?server=live.rkn.dog&port=443&secret=eee862a32a196e3c5c6bcc4e6997e7ff696c6976652e726b6e2e646f67
+
+https://t.me/proxy?server=103.104.112.8&port=5222&secret=eec8576be4484da99437c59af67c28ae447777772e6a696f2e636f6d
+
+https://t.me/proxy?server=cardiograph.hypostasis.trochantin.teleseryeshd.com&port=443&secret=eed1ba4d13011067ba4614d7a5d00cee02647a656e2e7275
+
+https://t.me/proxy?server=95.163.214.161&port=443&secret=eeaf794bcc20f70b1436b6b92b01b207e26d61676e69742e7275
+
+https://t.me/proxy?server=195.254.165.253&port=25565&secret=dd79e344818749bd7ac519130220c25d09
+
+https://t.me/proxy?server=achromat.bandoleer.middling.teleseryeepisodes.com&port=443&secret=ee0fb42049d10ac4fbec237e2e1e464c6d647a656e2e7275
+
+https://t.me/proxy?server=live.rkn.dog&port=443&secret=ee4db1456ea553ca3c291ea2df13762d986c6976652e726b6e2e646f67
+
+https://t.me/proxy?server=157.228.138.234&port=443&secret=ee16056e3a39c929f9ba1fb5787af7258e6d2e6265626f6f2e7275
+
+https://t.me/proxy?server=38.246.245.30&port=2000&secret=eeb148aece20418b54b24b7651d406f83c6173703330302e636e
+
+🆔 @mehdisedighinasab  @poroxybaz
+[8/19/2026 14:40] poroxybaz: 🚀 New Proxy List (FI)
+Items: 10
+
+vless://d024bb68-08be-4d92-be36-67123545400f@store14.vevluma.ir:1234?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=updates.cdn-apple.com&fp=chrome&pbk=4sT8gYkbYI1RUPlO-SFVpJENKfGgMWoYQpflbcfspkI&sid=4844fb0c077b20b7#%40mehdisedighinasab%204037
+
+vless://0b0915d7-6800-4580-a44b-77d84f105e6a@185.79.138.71:448?fp=chrome&host=%2F%3Fbia_telegram%40marambashi_marambashi_marambashi_marambashi&pbk=CsDgNRcCwCkPIslfZpKTIK71KFpIFNsotbdzKcZVoH8&security=reality&sid=cd21e552537c7c0b&sni=www.samsung.com&type=tcp#%40mehdisedighinasab%205446
+
+vless://c125e5df-e663-4a82-aff7-242dfc0917cf@email.swiftraci.org:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&sid=fa29be70b72f&pbk=Cs45TZ-4YKa8fWZ72YJcIcQCKipWsoYNZHEqFvs-PTE&encryption=none#%40mehdisedighinasab%209834
+
+vless://7e760d89-a8f4-4a87-8f10-b4af28c61b7f@212.237.216.46:8443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=firefox&sni=fastcdn.intercom-home.online#%40mehdisedighinasab%209802
+
+vless://f9830277-753f-481b-bb35-15e15a92acb0@email.swiftraci.org:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=www.tradingview.com&fp=chrome&pbk=Cs45TZ-4YKa8fWZ72YJcIcQCKipWsoYNZHEqFvs-PTE&sid=83e0acf97a90&type=tcp&path=/#%40mehdisedighinasab%207866
+
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@fl06.skorostnet.space:13868?type=tcp&security=reality&sni=www.epicgames.com&pbk=8SX8GXMe3lXOyY_acO4HFXXYJn_rOOf4zkYFrifV1Tk&sid=e852dc&fp=firefox&encryption=none&flow=xtls-rprx-vision#%40mehdisedighinasab%208072
+
+vless://74fbbe74-906d-5553-a27c-a85fc758bc9f@31.76.53.16.fwqfw783rg2dad.website:443?security=tls&type=ws&path=%2Fwebsocket%3Fed%3D2560&alpn=http%2F1.1&sni=31.76.53.16.fwqfw783rg2dad.website&fp=firefox&encryption=none#%40mehdisedighinasab%208223
+
+vless://7d2bac5e-6ff9-45c9-844e-6bfc5a384a42@2.26.85.243:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=lHCkAu_DOVFtE-iL2JGrPt44QeTCFijXuRfuGaSni3Q&sid=9e4eced6e98ed4d4&sni=fn.orpheous.ru#%40mehdisedighinasab%202559
+
+vless://487273f5-4aeb-4631-b197-2e169dffc285@2.26.91.98:1443?path=%2F%40Marisa_kristi&security=tls&encryption=none&host=8n9qi6t-owl.gevc9s4n60cc3wzcmwhjyezydpmbchocxp.workers.dev&fp=chrome&type=ws&sni=8n9qi6t-owl.gevc9s4n60cc3wzcmwhjyezydpmbchocxp.workers.dev&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query#%40mehdisedighinasab%206275
+
+vless://74fbbe74-906d-4145-a27c-a85fc758bc9f@94.156.180.188.fwqfw783rg2dad.website:443?security=tls&type=ws&path=%2Fwebsocket%3Fed%3D2560&alpn=http%2F1.1&sni=94.156.180.188.fwqfw783rg2dad.website&fp=firefox&encryption=none#%40mehdisedighinasab%204637
+
+🆔 @mehdisedighinasab  @poroxybaz
+[8/19/2026 14:50] poroxybaz: 🚀 New Proxy List (EE)
+Items: 10
+
+vless://6a4f00c8-22b4-44e2-83e7-f80db3432b6d@93.123.39.49:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.google.com&fp=chrome&pbk=N0QyBaacGqSpRv_Ib4jsSx5A1kfE8IE1w0HcDB5w1BE&flow=xtls-rprx-vision#%40mehdisedighinasab%202431
+
+vless://ecad47b0-249e-0014-adff-e3c8f02b1897@185.93.33.7:443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&host=v_ngfree----------------------v_ngfree&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=auto.quattro-tech.ru&sid=43dcff53849b81e6#%40mehdisedighinasab%208255
+
+vless://f5e5da05-ef1d-4a19-b75d-aaf30c93bb1a@31.56.187.165:6543?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=_fz8jpa604XXSweCCf6PU9Xmd7F4sZ1RSMqNTzwBVA0&sid=a4f8c92d&sni=celerisdigital.top#%40mehdisedighinasab%202722
+
+hysteria2://cd74c0a406664a5bc0bac098220a2468@ee2.sferavpn.pro:443?obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&sni=ee2.sferavpn.pro&obfs=salamander&seq=you_are_beautiful4036#%40mehdisedighinasab%203410
+
+vless://bf840e65-ae71-4d9d-afe8-bf77f032c63b@95.85.242.241:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Qks2gZB7vFN7X2mhq0toWVvbi0ZGZM0my_VGMtaDIH0&sid=a81d2e&sni=www.amd.com#%40mehdisedighinasab%205641
+
+vless://b650bfa1-cb17-4aa4-9de2-5f8d6eab27dd@94.183.239.89:25319?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=MgYlSaB7Xh8ubOvZho8iHoFPBp7fP3QcYkWD2_ztIgc&sid=c31b8e7170193506&sni=proxy11.h1guro.ovh#%40mehdisedighinasab%207350
+
+vless://19f54e37-5fae-47f6-bc10-e71ccbc58389@94.183.170.231:8443?type=tcp&security=tls&encryption=none&fp=firefox&sni=estproxy2.lockdwn.com#%40mehdisedighinasab%202550
+
+vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@188.255.236.213:443?security=reality&encryption=none&pbk=UMvz-4jhwqv9obtELN1iozBhEUsayjnOvXBSHEiX_DI&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cosmic-aurora.cdn.cachefleet.com#%40mehdisedighinasab%204575
+
+vless://497631c4-a1a4-45ff-a86a-f42873473bb6@185.215.187.46:443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ee.quattro-tech.ru&sid=43dcff53849b81e6#%40mehdisedighinasab%204491
+
+vless://f71e29f8-0608-4705-99b9-33e0e128ca6d@31.76.55.139:8765?security=reality&encryption=none&pbk=dzc73376TXGhzhfPgBCYEHzUp2-cBSdCK2wgPuWNFFI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=6a7bd2#%40mehdisedighinasab%205761
+
+🆔 @mehdisedighinasab  @poroxybaz
+[8/19/2026 15:00] poroxybaz: 🚀 New Proxy List (AL)
+Items: 10
+
+vless://7691d590-be40-411f-ab11-1e1ab4b03570@albanyao.consolgame.ir:1002?security=reality&encryption=none&pbk=E5n-njx-57MxDzVpCwsqmc9wKeYRjyd2tg2yAUJ_sFU&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=28711478c2a20a18#%40mehdisedighinasab%201878
+
+vless://7b81d175-d180-4ec8-bbc5-dfe80e8d3b68@144.31.129.42:443?encryption=none&security=reality&sni=morphbinerkkw.ru&fp=firefox&pbk=CxMPFpwhcR9Ocp-Xy_1J08mo-atdHKUf58WLOy_XlgM&sid=d9662905&type=grpc&authority=&serviceName=nexusGrpc&mode=gun#%40mehdisedighinasab%202516
+
+vless://f62a37f3-f7df-4673-a7c8-06a9fc72c6ea@45.89.60.76:1337?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=0OajRGdqF2S2JJgKYcsq6nIF3K_ypFYCTUzCjR8Wh1o&sid=c692a719&sni=yt.alba.xanka.best#%40mehdisedighinasab%203940
+
+vless://7b81d175-d180-4ec8-bbc5-dfe80e8d3b68@144.31.129.42:443/?type=grpc&encryption=none&flow=&serviceName=nexusGrpc&sni=morphbinerkkw.ru&fp=firefox&security=reality&pbk=CxMPFpwhcR9Ocp-Xy_1J08mo-atdHKUf58WLOy_XlgM&sid=d9662905#%40mehdisedighinasab%208493
+
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@nd01.skorostnet.space:13868?security=reality&encryption=none&flow=xtls-rprx-vision&pbk=sgpya-5ohMKCjzyrDe4RWz7b8O9XegDzQ88oHCV45Gk&sid=e852dc&sni=booking.com&fp=firefox&type=tcp#%40mehdisedighinasab%208688
+
+vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@144.31.129.42:443?encryption=none&security=reality&sni=morphbinerkkw.ru&pbk=CxMPFpwhcR9Ocp-Xy_1J08mo-atdHKUf58WLOy_XlgM&sid=5e3ab3ab228625&type=grpc&authority=&serviceName=nexusGrpc&mode=gun#%40mehdisedighinasab%207420
+
+vless://1da18def-6804-44c8-bb6d-83cff995f567@nl6.unlockvpn.online:443?security=reality&encryption=none&pbk=XZa7f7bABj7lY4HuLopVCBBBYTu-RB7QyIZ96njvYwo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=7bcfc0bc#%40mehdisedighinasab%208761
+
+vless://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@lb1.auragg.org:25332?encryption=none&type=grpc&security=reality&sni=cloudflare.com&fp=qq&pbk=4iK2MvJODGj37OQE588278o4abt70zkFZzmQJg47NiA&sid=a3d8f1e9b2c7d4e6&path=auragrpc&serviceName=auragrpc&mode=gun&multiMode=false#%40mehdisedighinasab%208927
+
+vless://210a6a43-bff6-5bc6-a1ef-67ba9958cebb@185.177.238.122:443?encryption=none&type=xhttp&mode=auto&host=www.kinopoisk.ru&path=%2FsxKkFzZYxD4&security=reality&fp=firefox&pbk=UNTmfdXuKdlBYzHVrD0RvwT-ZfuA_KLKNMwqAWquV3E&sni=www.kinopoisk.ru&sid=295085d98f#%40mehdisedighinasab%208951
+
+vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@144.31.129.42:443?encryption=none&security=reality&sni=morphbinerkkw.ru&fp=firefox&pbk=CxMPFpwhcR9Ocp-Xy_1J08mo-atdHKUf58WLOy_XlgM&sid=0bc73dd1f045&type=grpc&authority=&serviceName=nexusGrpc&mode=gun#%40mehdisedighinasab%205754
+
+🆔 @mehdisedighinasab  @poroxybaz
+[8/19/2026 15:00] poroxybaz: 🔵 New MTProto/Telegram Proxies
+Items: 10
+
+https://t.me/proxy?server=5.223.84.207&port=443&secret=dd79e7010200010007f0030386e24c3add&&channel=@baicai_dev
+
+https://t.me/proxy?server=194.60.228.160&port=2053&secret=79e344818749bd7ac519130220c25d09
+
+https://t.me/proxy?server=89.117.222.149&port=8443&secret=dd104462821249bd7ac519130220c25d09
+
+https://t.me/proxy?server=2.27.13.87&port=443&secret=eecbacc37ce9e2bb466ed5c782c6e64f607a6f6f6d2e7573&&channel=@baicai_dev
+
+https://t.me/proxy?server=beest-sellerst.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
+
+https://t.me/proxy?server=sal.mahanam.info&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t
+
+https://t.me/proxy?server=91.107.170.251&port=8443&secret=ee79e344818749bd7ac519130220c25d09
+
+https://t.me/proxy?server=full-vasl.ir-xyz.gdhbvjshjrf.info.&port=88&secret=7gAA8A8Pd1VV____9QBuLmliaXNjb3R0aS55ZWt0YW5ldC5jb20
+
+https://t.me/proxy?server=93.113.230.242&port=443&secret=3dd937dd5a1748b47505d32759b12c35
+
+https://t.me/proxy?server=195.200.31.123&port=8443&secret=ee1603048187495dfac59a030220c25d8e7777772e7961686f6f2e636f6d&&channel=@baicai_dev
+
+🆔 @mehdisedighinasab  @poroxybaz
+[8/19/2026 15:10] poroxybaz: 🚀 New Proxy List (CY)
+Items: 10
+
+trojan://3723507166611775488@195.133.93.81:443?type=tcp&security=tls&sni=sensible-ocelot.boa152.lol&fp=chrome&alpn=http%2F1.1#%40mehdisedighinasab%204159
+
+vless://c04bf2df-2b7f-44da-a893-3792d3910fd8@cur02.myxasecure.space:443?security=reality&flow=xtls-rprx-vision&type=raw&sni=cur02.myxasecure.space&fp=qq&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&sid=d67ec5a8fc40ebea#%40mehdisedighinasab%203161
+
+vless://5aca6fb1-b21a-4f63-9cab-54986613f6aa@91.148.135.191:54217?security=none&encryption=none&headerType=none&type=tcp#%40mehdisedighinasab%207787
+
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@195.85.59.187:2095?security=none&type=ws&host=cnmfangbinxingnmsl.cnm--fangbinxing.workers.dev&path=/#%40mehdisedighinasab%207497
+
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@api-endpoint.rest:443?type=tcp&headerType=none&security=reality&encryption=none&sni=api-endpoint.rest&fp=qq&pbk=XW9rKSbrkI0ehSHTieUsCpvhJ1_Wib9MDPZG8JafD0s&sid=19fbc4c7dd3d3d5a&flow=xtls-rprx-vision#%40mehdisedighinasab%201171
+
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@cur03.myxasecure.space:443?&security=reality&flow=xtls-rprx-vision&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&sid=d67ec5a8fc40ebea&fp=edge&sni=cur03.myxasecure.space&type=tcp&headerType=none&host=cur03.myxasecure.space&path=%2F#%40mehdisedighinasab%206088
+
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@193.24.233.58:13868?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=L27vPGQ48_3gTa33KSVfuRFhxc7IMud1qvCAPxxmg2M&sid=e852dc&sni=www.speedtest.net#%40mehdisedighinasab%203950
+
+vless://0c6b632a-cd96-4b74-9b51-151e3b5697db@91.92.21.82:2083?security=tls&flow=xtls-rprx-vision-udp443&sni=pol2.neobo-tooth.ru&fp=chrome&allowInsecure=1#%40mehdisedighinasab%202594
+
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@api-endpoint.rest:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&flow=xtls-rprx-vision&fp=&pbk=XW9rKSbrkI0ehSHTieUsCpvhJ1_Wib9MDPZG8JafD0s&security=reality&sid=19fbc4c7dd3d3d5a&sni=&type=tcp#%40mehdisedighinasab%204895
+
+vless://0c6b632a-cd96-4b74-9b51-151e3b5697db@pol2.neobo-tooth.ru:2083?flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%40mehdisedighinasab%203735
+
+🆔 @mehdisedighinasab  @poroxybaz
+[8/19/2026 15:10] poroxybaz: 🔵 New MTProto/Telegram Proxies
+Items: 10
+
+https://t.me/proxy?server=mikhoramet.bache-jun.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=best.pipster.org&port=443&secret=ee6b74041f24ff73dc4305cef153aad92a79612e7275&bot=
+
+https://t.me/proxy?server=chai.mikham.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ&bot=
+
+https://t.me/proxy?server=www.minetor.co.uk&port=443&secret=ee104462821249bd7ac519130220c25d09&bot=
+
+https://t.me/proxy?server=161.97.152.87&port=443&secret=eeafe33c3da508eb71e1aa5cda9251d3cb676f6f676c65617069732e636f6d&bot=
+
+https://t.me/proxy?server=91.98.137.162&port=443&secret=dd80e344818749bd7ac519130220c25d38&bot=
+
+https://t.me/proxy?server=super.vpnproxy.cc&port=88&secret=dd7a2debc4d25fe521eee1793636e97c60&bot=
+
+https://t.me/proxy?server=27.124.29.201&port=33306&secret=dd01cdd354110000000000000000415251&bot=
+
+https://t.me/proxy?server=naro.guguli.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=boro.bache-jun.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
+
+🆔 @mehdisedighinasab  @poroxybaz
+[8/19/2026 15:20] poroxybaz: 🚀 New Proxy List (LV)
+Items: 10
+
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@46.8.228.191:2090?security=none&type=raw&encryption=none#%40mehdisedighinasab%209430
+
+vless://bf0899bc-5abd-40b8-b376-f108e2d8cb6f@vs-lv3.vibesignal.space:443?&security=reality&flow=xtls-rprx-vision&pbk=IbONWqUs3uvYlzkYeW5vm5j3VSCq9nu-LEz20spPMAM&sid=7a1f1c417880e3ce&fp=edge&sni=ajax.googleapis.com&type=tcp&headerType=none&host=ajax.googleapis.com&path=%2F#%40mehdisedighinasab%203732
+
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.57.106.73:2090?security=none&type=tcp#%40mehdisedighinasab%202558
+
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@188.215.31.230:2090?#%40mehdisedighinasab%201158
+
+vless://06f364d4-3d0c-4c60-84e9-a3009f1b0050@2.26.88.156:6443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=L7DF7bQGLb1hLQxHoDqnsd7WMAo8bklWteoXqKYwAl8&sid=332d021eb872d2db&sni=ign.com#%40mehdisedighinasab%207311
+
+vless://a3bf5677-eaa6-42c5-959c-38cfdcd58d48@104.252.53.195:32060?encryption=none&fp=chrome&pbk=GSpAiLgZ-6A9NENbg5Rnx_Eba051Lh4NvLhFu_hohlA&security=reality&sid=1f&sni=fr-ca.rogers.yahoo.com&spx=/Fvrzz4VpHZFDaiF&type=tcp#%40mehdisedighinasab%208177
+
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.57.26.215:2090?security=none&encryption=none&headerType=none&type=tcp#%40mehdisedighinasab%205046
+
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@217.19.4.60:2090?alpn=http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp#%40mehdisedighinasab%208777
+
+vless://dbacac09-9ee8-400c-b53b-745a769c220a@31.170.22.176:7443?type=grpc&security=reality&fp=firefox&pbk=8XsSsJHS3-t2C497lP13JJNtknwSMWitJGYDvRJu3XE&sid=b66233e398c50da0&sni=tv.apple.com&serviceName=grpc#%40mehdisedighinasab%207648
+
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@45.158.169.96:2090?alpn=http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp#%40mehdisedighinasab%207019
+
+🆔 @mehdisedighinasab  @poroxybaz
+[8/19/2026 15:20] poroxybaz: 🔵 New MTProto/Telegram Proxies
+Items: 10
+
+https://t.me/proxy?server=daemi-asli.karshenasi.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
+
+https://t.me/proxy?server=5xxlfa.mnbtm.li&port=8080&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=gate.24starsmarket.ru&port=443&secret=ee87edf50215ee4bf7aa2d409b9cd71fcc676174652e323473746172736d61726b65742e7275
+
+https://t.me/proxy?server=manavi.masnavi.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+
+https://t.me/proxy?server=sioms.co.uk&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d
+
+https://t.me/proxy?server=www.qavi-qodrati.ir.&port=8443&secret=ee6321048187495dfac59a030220c25d8e7777772e7961686f6f2e636f6d
+
+https://t.me/proxy?server=alo-alo.info.01-62.ir.&port=8443&secret=ee6321a38187495dfac59a030220c25d8e626973636f7474692e79656b74616e65742e636f6d
+
+https://t.me/proxy?server=basic.valmira.co.uk&port=22&secret=EERighJJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=ma.nistim.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=one.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+🆔 @mehdisedighinasab  @poroxybaz
+[8/19/2026 15:30] poroxybaz: 🚀 New Proxy List (IR)
+Items: 10
+
+vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@185.143.232.224:80?path=%2Fnews&security=none&encryption=none&host=bama.ir.usa.cdnir.org&type=ws#%40mehdisedighinasab%204627
+
+vless://f564970a-8d90-4139-aec2-72cfbf6b1e24@sv33.lithiumhost.ir:41722?security=&encryption=none&headerType=&type=tcp#%40mehdisedighinasab%201412
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowdTQ3eEp2cDJfcEdiQTVjMTNBU0hLODdEeER3azV6bQ==@coco1.farajet.net:1010#%40mehdisedighinasab%201339
+
+vless://9a3cd028-8b85-463e-bb3b-e267f45ecd3a@tr.mrpgd.ir:6009?security=reality&encryption=none&pbk=JFSkIP3ey2MgTvbtr2JI08g61caz-cuNDV9IXcZFfnI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=8b64e71e68af986e#%40mehdisedighinasab%203420
+
+vless://7311bac5-eee4-4a9f-be0f-4307df1e237a@185.143.234.235:80?path=%2F&security=none&encryption=none&host=io.binping.lol&type=ws#%40mehdisedighinasab%201427
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoN2JXY0N0VFZYdVptZ2RLTGRLSjJ4ZmRVUldDNHc5Tg==@coco2.farajet.net:2020#%40mehdisedighinasab%209242
+
+vless://dfd9a13a-e60f-4ba9-a39c-3fd4447c48ab@mt.play98.ir:51991?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=tcp&encryption=mlkem768x25519plus.native.0rtt.gPN8xlnAhPtXFlEe9BWKIDXQN5OkIzpN2ltRZoWD-XI&security=none#%40mehdisedighinasab%203219
+
+vless://0d543aed-4e30-4553-b5ac-211419bb0961@185.128.139.11:18244?type=tcp&security=none&encryption=none&sni=/?bia_telegram@marambashi_marambashi_marambashi_marambashi#%40mehdisedighinasab%208903
+
+vless://1ee1f28d-4975-4d7c-95c7-76172c20eed5@185.143.233.238:2086?security=none&type=ws&path=/&host=parsi.parsi.sbs&encryption=none#%40mehdisedighinasab%207623
+
+vless://1073a3f2-dc7c-46fb-aa7c-4378d4b27785@asl3.feeliran.org:449?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&type=tcp&allowInsecure=0#%40mehdisedighinasab%201816
+
+🆔 @mehdisedighinasab  @poroxybaz
+[8/19/2026 15:30] poroxybaz: 🔵 New MTProto/Telegram Proxies
+Items: 10
+
+https://t.me/proxy?server=takhasos.karshenasi.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+
+https://t.me/proxy?server=alo-alo.info.01-62.ir.&port=8443&secret=ee6321a38187495dfac59a030220c25d8e626973636f7474692e79656b74616e65742e636f6d
+
+https://t.me/proxy?server=www.qavi-qodrati.ir.&port=8443&secret=ee6321048187495dfac59a030220c25d8e7777772e7961686f6f2e636f6d
+
+https://t.me/proxy?server=one.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=www.381-012.ir.&port=443&secret=ee1044048187495dfac59a030220c25cb37777772e7961686f6f2e636f6d
+
+https://t.me/proxy?server=daemi.net.masnavi.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
+
+https://t.me/proxy?server=manavi.masnavi.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+
+https://t.me/proxy?server=daemi-asli.karshenasi.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
+
+https://t.me/proxy?server=gate.24starsmarket.ru&port=443&secret=ee87edf50215ee4bf7aa2d409b9cd71fcc676174652e323473746172736d61726b65742e7275
+
+https://t.me/proxy?server=5xxlfa.mnbtm.li&port=8080&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+🆔 @mehdisedighinasab  @poroxybaz
+[8/19/2026 15:40] poroxybaz: 🚀 New Proxy List (NL)
+Items: 10
+
+vless://4bf5a71c-d726-4585-b095-7396675706d5@72.56.81.165:40443?security=reality&flow=xtls-rprx-vision&sni=deepl.com&type=tcp&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&fp=qq&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&sid=c84f&allowInsecure=1#%40mehdisedighinasab%209964
+
+vless://53b7fdec-4ccb-481a-8d98-83aa19509330@185.227.70.114:8082?security=reality&type=grpc&mode=gun&serviceName=vless-grpc-reality&packetEncoding=xudp&sni=id.vk.com&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%40mehdisedighinasab%203547
+
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.98:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%40mehdisedighinasab%204155
+
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.153:9002?encryption=none&fp=chrome&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=grpc-reality&sid=6ba85179e30d4fc2&sni=api-maps.yandex.ru&type=grpc#%40mehdisedighinasab%204036
+
+vless://e73df646-1f62-41bf-8c50-653497d603d0@163.172.213.174:80?host=sc-thenetherlands2.09vpn.com&path=%2Fvless%2F&security=none&type=ws#%40mehdisedighinasab%204804
+
+vless://53b7fdec-4ccb-481a-8d98-83aa19509330@185.227.70.120:8082?security=reality&type=grpc&mode=gun&serviceName=vless-grpc-reality&packetEncoding=xudp&sni=id.vk.com&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%40mehdisedighinasab%202787
+
+vless://4480161e-2c59-4d37-8736-675c9af32bf1@netraidly.ru:40443?flow=xtls-rprx-vision&fp=qq&host=v2raynplus--v2raynplus--v2raynplus&pbk=fWzCKXwvMXaacsl1DdFb1vKQ9l9cTK1G7udqmaYHL0Y&security=reality&sid=01d1bf2d4755d40c&sni=deepl.com&type=tcp#%40mehdisedighinasab%206209
+
+vless://c7333a4e-b8c9-44d4-aee6-f73bfe203902@46.8.69.240:35974?type=ws&path=%2F#%40mehdisedighinasab%201824
+
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.26:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%40mehdisedighinasab%206943
+
+vless://c04bf2df-2b7f-44da-a893-3792d3910fd8@138.124.67.203:13868?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=sgpya-5ohMKCjzyrDe4RWz7b8O9XegDzQ88oHCV45Gk&sid=e852dc&sni=booking.com#%40mehdisedighinasab%201254
+
+🆔 @mehdisedighinasab  @poroxybaz
+[8/19/2026 15:40] poroxybaz: 🔵 New MTProto/Telegram Proxies
+Items: 10
+
+https://t.me/proxy?server=0006dyaa000x00001.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
+
+https://t.me/proxy?server=jounob-iran-dar-ghalb-mast.simbol.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+
+https://t.me/proxy?server=goodman.lamari.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+
+https://t.me/proxy?server=symbol.simbol.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+
+https://t.me/proxy?server=saadi.masnavi.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+
+https://t.me/proxy?server=neshane-rah.simbol.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+
+https://t.me/proxy?server=panel-portal.managep.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
+
+https://t.me/proxy?server=nasaji.estakhr.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+
+https://t.me/proxy?server=biaberim.estakhr.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+
+https://t.me/proxy?server=most.karshenasi.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+
+🆔 @mehdisedighinasab  @poroxybaz
+[8/19/2026 15:50] poroxybaz: 🚀 New Proxy List (PK)
+Items: 2
+
+trojan://S.ibYdZshHTF-ne.M%2B.Fznp_-hyFFnCSix@149.104.104.58:443?security=tls&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0#%40mehdisedighinasab%204784
+
+trojan://S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix@149.104.104.58:443/?type=tcp&security=tls&sni=149.104.104.58#%40mehdisedighinasab%208249
+
+🆔 @mehdisedighinasab  @poroxybaz
+[8/19/2026 16:00] poroxybaz: 🚀 New Proxy List (IL)
+Items: 10
+
+vless://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@83.143.106.3:8443?encryption=none&security=reality&sni=res.cdn.office.net&fp=firefox&pbk=4g8R0-Acc1LjppgvUopldH0Wg3JA2tPXvYB96aJnigo&type=grpc&authority=&serviceName=TunService&mode=gun#%40mehdisedighinasab%209689
+
+vless://497631c4-a1a4-003e-a86a-f42873473bb6@193.182.144.98:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=auto.quattro-tech.ru&fp=edge&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&type=tcp&headerType=none#%40mehdisedighinasab%203196
+
+trojan://F42UEtSEue3xZeeomz%2FBnvE8zoS4RiuHzNHD%2Bq1MWjg%3D@64.177.65.95:43493?security=reality&pbk=wQYwwDqJYcFwb0tBON7-ggw8pO1DZ7ven_AjRvPIzBU&headerType=none&fp=chrome&spx=%2FPlPePIGEEFMNkJX&type=tcp&sni=intel.com&sid=782c47f2a34f#%40mehdisedighinasab%204343
+
+vless://6d31a121-afcf-419b-af11-73381a7cd7b3@il2.c2horizon.app:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4&sni=il2.c2horizon.app#%40mehdisedighinasab%205708
+
+vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@185.159.73.247:443?security=reality&flow=xtls-rprx-vision&type=raw&sni=asia.cendora.ru&fp=qq&pbk=eaRNeC8fccrx0nBNvBpAXZgK4m4FxfnQ-t0W7NOM7mU&sid=e53048e82bb20077#%40mehdisedighinasab%207775
+
+vless://06f364d4-3d0c-4c60-84e9-a3009f1b0050@193.169.229.151:6443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=L7DF7bQGLb1hLQxHoDqnsd7WMAo8bklWteoXqKYwAl8&sid=41444f03bd84a905&sni=ign.com#%40mehdisedighinasab%202996
+
+vless://808a0627-05e5-47b3-8d27-edd65020ef09@37.142.205.77:20443?security=reality&encryption=none&pbk=p8q3yhwdryc9YfL-xSO78M03SIF5LrizXc_7R9ARYQ8&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=%3A%2F%2Fmicrosoft.com&sid=183d612c#%40mehdisedighinasab%202748
+
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@212.179.49.187:13443?flow=xtls-rprx-vision&fp=edge&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&security=reality&sid=a7f3c91b2e6d84c0&sni=auto.cendora.ru&type=tcp#%40mehdisedighinasab%208854
+
+vless://8584983e-e4ac-4fd9-96b9-7f4db8dc5790@195.211.24.49:443?type=tcp&encryption=none&security=none#%40mehdisedighinasab%205704
+
+vless://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@83.143.106.3:8443?type=grpc&security=reality&fp=firefox&pbk=4g8R0-Acc1LjppgvUopldH0Wg3JA2tPXvYB96aJnigo&sni=res.cdn.office.net&serviceName=TunService#%40mehdisedighinasab%206498
+
+🆔 @mehdisedighinasab  @poroxybaz
+[8/19/2026 16:00] poroxybaz: 🔵 New MTProto/Telegram Proxies
+Items: 10
+
+https://t.me/proxy?server=symbol.simbol.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+
+https://t.me/proxy?server=jounob-iran-dar-ghalb-mast.simbol.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+
+https://t.me/proxy?server=saadi.masnavi.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+
+https://t.me/proxy?server=biaberim.estakhr.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+
+https://t.me/proxy?server=neshane-rah.simbol.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+
+https://t.me/proxy?server=shir.pesar.hedoit.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+
+https://t.me/proxy?server=panel-portal.managep.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
+
+https://t.me/proxy?server=nasaji.estakhr.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+
+https://t.me/proxy?server=goodman.lamari.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+
+https://t.me/proxy?server=opps.runserver.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+🆔 @mehdisedighinasab  @poroxybaz
+[8/19/2026 16:10] poroxybaz: 🚀 New Proxy List (SC)
+Items: 10
+
+vless://215c2b34-6371-49c7-a90d-39a4fe5191c0@200.165.228.78:4100?fp=edge&path=%2Fv1&sni=live.ok.ru&type=ws#%40mehdisedighinasab%206524
+
+vless://e2c5f1a9-b3d4-4e78-9f2a-1c3d4e5f6a7b@45.130.125.114:80?type=ws&security=none&path=%2F&host=free-hzr27-cdn.sabzi.name.ng.#%40mehdisedighinasab%207432
+
+vless://2a650f3b-d95b-4bd6-aadf-16ccc0717155@200.165.228.114:9871?security=reality&type=grpc&mode=gun&serviceName=grpc-tunnel&packetEncoding=none&allowInsecure=1&sni=dl.google.com&fp=chrome&sid=aabb&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0#%40mehdisedighinasab%201052
+
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@45.130.125.207:80?path=%2Fhttp&security=none&encryption=none&host=de.vpnbase.net&type=ws#%40mehdisedighinasab%206699
+
+vless://5383fb97-1178-4709-9a25-b767b743e911@200.165.234.62:4100?path=%2Fv1&security=none&type=ws#%40mehdisedighinasab%202611
+
+vless://6620ef58-9c62-43fe-9596-ff862b200958@200.165.228.47:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#%40mehdisedighinasab%205215
+
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@push.sukario.ir:2087?type=ws&security=tls&sni=k3.erooo12345.xyz&fp=chrome&path=%2F&host=k3.erooo12345.xyz#%40mehdisedighinasab%206300
+
+vless://e3a625d4-5adb-463d-bbff-bbe06b8e2c5c@200.165.228.51:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#%40mehdisedighinasab%204824
+
+vless://215c2b34-6371-49c7-a90d-39a4fe5191c0@200.165.228.78:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru&fp=edge#%40mehdisedighinasab%201041
+
+vless://e3a625d4-5adb-463d-bbff-bbe06b8e2c5c@200.165.228.51:2200?encryption=none&type=ws&security=none&path=%2Fv1&host=rzd.ru#%40mehdisedighinasab%206960
+
+🆔 @mehdisedighinasab  @poroxybaz
+[8/19/2026 16:10] poroxybaz: 🔵 New MTProto/Telegram Proxies
+Items: 10
+
+https://t.me/proxy?server=sibil.golabkashan.info&port=443&secret=1603010200010001fc030386e24c3add&&channel=@baicai_dev
+
+https://t.me/proxy?server=zerogg.ru&port=443&secret=ee2466ce5cb94b743026116096263519d479612e7275&&channel=@baicai_dev
+
+https://t.me/proxy?server=194.120.230.106&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
+
+https://t.me/proxy?server=wwww.namserver.dotadotnet.ir&port=443&secret=dd79e7010200010007f0030386e24c3add&&channel=@baicai_dev
+
+https://t.me/proxy?server=172.65.111.25&port=22&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
+
+https://t.me/proxy?server=new.canmycheshm.co.uk.&port=22&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
+
+https://t.me/proxy?server=nowin.injast.co.im&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ&&channel=@baicai_dev
+
+https://t.me/proxy?server=www.hezhins.w.dotadotnet.ir&port=443&secret=dd79e7010200010007f0030386e24c3add&&channel=@baicai_dev
+
+https://t.me/proxy?server=Snow-Panel.torexa.ir&port=443&secret=af1b6bbc2d581b7e79def96fc5e02962
+
+https://t.me/proxy?server=78.47.28.108&port=8443&secret=dd104462821249bd7ac519130220c25d09
+
+🆔 @mehdisedighinasab  @poroxybaz
+[8/19/2026 16:20] poroxybaz: 🚀 New Proxy List (MX)
+Items: 8
+
+vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@45.134.9.133:8443?encryption=none&security=tls&sni=ul-mexico1.09vpn.com&allowInsecure=true&type=ws&path=/vless/&packetEncoding=xudp#%40mehdisedighinasab%207400
+
+vless://8bba3194-4856-46d1-8319-075817d87eb1@nl11.cyphervpn.pro:443?flow=xtls-rprx-vision&fp=firefox&pbk=oGgupP3uX0TNyFwuxNYaFj-IQ8EPhCuKfJdaOHiMnV0&security=reality&sid=c334408a1056aaf8&sni=nl11.cyphervpn.pro#%40mehdisedighinasab%208168
+
+vmess://eyJhZGQiOiI2OC4xNTUuODYuODQiLCJhaWQiOiIwIiwiaG9zdCI6ImFqYXgubWljcm9zb2Z0LmNvbSIsImlkIjoiYTZhYjY1MTMtNmVjMy0zMjdmLWEwNjgtYjg5ZmU3Mjk1NGI4IiwibmV0Ijoid3MiLCJwYXRoIjoiL2hscy9jY3R2NXBoZC5tM3U4IiwicG9ydCI6IjM2ODAxIiwicHMiOiJAbWVoZGlzZWRpZ2hpbmFzYWIgNzQ1OSIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+
+vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@ul-mexico1.09vpn.com:8443?&security=tls&fp=chrome&type=ws&headerType=none&host=ul-mexico1.09vpn.com&path=%2Fvless%2F#%40mehdisedighinasab%203207
+
+vless://8bba3194-4856-46d1-8319-075817d87eb1@193.39.208.215:443?security=reality&flow=xtls-rprx-vision&sni=nl11.cyphervpn.pro&type=tcp&fp=firefox&pbk=oGgupP3uX0TNyFwuxNYaFj-IQ8EPhCuKfJdaOHiMnV0&sid=c334408a1056aaf8#%40mehdisedighinasab%203486
+
+vmess://eyJ2IjoiMiIsInBzIjoiQG1laGRpc2VkaWdoaW5hc2FiIDMxODgiLCJhZGQiOiJjaW5keTUwLmNlb2lpaS5jb20iLCJwb3J0IjoiMzY4MDEiLCJ0eXBlIjoibm9uZSIsImlkIjoiYTZhYjY1MTMtNmVjMy0zMjdmLWEwNjgtYjg5ZmU3Mjk1NGI4IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9obHMvY2N0djVwaGQubTN1OCIsImhvc3QiOiJhamF4Lm1pY3Jvc29mdC5jb20iLCJ0bHMiOiIifQ==
+
+vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@ul-mexico1.09vpn.com:8443?encryption=none&security=tls&sni=ul-mexico1.09vpn.com&fp=chrome&insecure=1&type=ws&host=ul-mexico1.09vpn.com&path=/vless/#%40mehdisedighinasab%205974
+
+vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@ul-mexico1.09vpn.com:8443?encryption=none&security=tls&type=ws&path=%2Fvless%2F#%40mehdisedighinasab%208826
+
+🆔 @mehdisedighinasab  @poroxybaz
+[8/19/2026 16:30] poroxybaz: 🚀 New Proxy List (SI)
+Items: 1
+
+vless://fee5bf09-5d07-45e8-9a47-859b06694971@92.42.201.27:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&pbk=AYWvVCObGJ_5TnNMGj4z_UDSDzMJ3IcoRgIBCAeUWFs&fp=qq#%40mehdisedighinasab%201815
+
+🆔 @mehdisedighinasab  @poroxybaz
+[8/19/2026 16:40] poroxybaz: 🚀 New Proxy List (AT)
+Items: 10
+
+vless://cb78fbec-9b40-4717-82e9-fb6a415d5697@138.124.90.40:55389?encryption=none&security=reality&sni=www.nvidia.com&fp=chrome&pbk=cjYXVImuqEsjY6Etlu8S_Aj6L3KKv5qrTmTJ4zfa2jA&sid=8b184d8926eabc&spx=%2F&type=tcp&headerType=none#%40mehdisedighinasab%209003
+
+vless://eab81857-a729-4c61-c8e9-bd3b46608161@185.126.236.181:80?security=none&amp;encryption=none&amp;host=www.icloud.com&amp;headerType=http&amp;type=tcp#%40mehdisedighinasab%205798
+
+vless://506e707a-7945-434c-ab5f-10375a4726a9@94.228.162.57:31347?encryption=none&security=reality&sni=www.sony.com&fp=chrome&pbk=KIhVzm6N3Sr-sWLiYhoPX0QmhAt-WoD0jXRzqRtkuAE&sid=d8e6&spx=/&type=tcp&headerType=none#%40mehdisedighinasab%208258
+
+vless://48c9d365-feb2-41b8-a42e-a78f64b741ac@152.53.47.153:16923?encryption=none&type=grpc&serviceName=neurex&security=reality&sni=api-maps.yandex.ru&fp=firefox&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986#%40mehdisedighinasab%205298
+
+trojan://ZpbROQ5hRn@138.124.90.40:40476?security=reality&sni=www.amd.com&fp=chrome&pbk=xD3b_4SwDxrnUqa2NTgup4mYi1mjKYPwhaD4e4H_9yU&sid=14da&spx=%2F&type=tcp&headerType=none#%40mehdisedighinasab%205201
+
+vless://61576ad6-018f-4a70-b666-b408f6b40e92@94.228.162.57:13081?encryption=none&security=reality&sni=www.amazon.com&fp=chrome&pbk=MufXcOG5Mr2jMSyCTIUFBpwPLOTUnMGOzZZcdUbrZRI&sid=fdf845e4e76c50&spx=/&type=tcp&headerType=none#%40mehdisedighinasab%206641
+
+vless://1106f8e7-f70a-4541-9136-aca6e7b909ce@77.110.110.146:53648?encryption=none&security=reality&sni=www.amazon.com&fp=chrome&pbk=X8NnrDLprJtIEfvOHPPKbwBT_gduKVBdoLsg08O9r0Y&sid=3f3ac56a03&spx=%2F&type=tcp&headerType=none#%40mehdisedighinasab%207205
+
+vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@144.31.129.77:443?security=reality&encryption=none&pbk=CxMPFpwhcR9Ocp-Xy_1J08mo-atdHKUf58WLOy_XlgM&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=coinjoin-video-stri.ru&sid=5e3ab3ab228625#%40mehdisedighinasab%208361
+
+vless://4ab27adf-e13d-4eea-8cfc-a77f2a78c27b@152.53.47.153:16923?security=reality&type=grpc&mode=gun&serviceName=neurex&packetEncoding=none&allowInsecure=1&sni=api-maps.yandex.ru&fp=firefox&sid=10ffb85da1c2d986&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA#%40mehdisedighinasab%201284
+
+trojan://sbp4kLxhRM@185.126.236.186:443?security=reality&pbk=7ssv-EPWLhGKofQVdLqm1x87BRmPYfgRlMFwQCb8D2c&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com#%40mehdisedighinasab%203756
+
+🆔 @mehdisedighinasab  @poroxybaz
+[8/19/2026 16:40] poroxybaz: 🔵 New MTProto/Telegram Proxies
+Items: 10
+
+https://t.me/proxy?server=you.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=dns.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=tassian.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
+
+https://t.me/proxy?server=169.128.116.88&port=443&secret=ee4c4e8e0474846e5967a4b1c4a2ee69
+
+https://t.me/proxy?server=sub.iran-tehran.co.uk.&port=443&secret=3RBEYoISSb16xRkTAiDCXQk%3D
+
+https://t.me/proxy?server=basic.valmira.co.uk&port=22&secret=EERighJJvXrFGRMCIMJdCQ&name=%F0%9F%8C%90%20%40goololgoo%20%F0%9F%94%90%20%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%7C%20Free%20Proxy%F0%9F%92%A5
+
+https://t.me/proxy?server=2eyddd1.mmd1.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
+
+https://t.me/proxy?server=94.184.39.6.aprawood.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
+
+https://t.me/proxy?server=95.217.77.56&port=8443&secret=dd104462821249bd7ac519130220c25d09
+
+https://t.me/proxy?server=media.happtg.org&port=443&secret=eed9cf709eb48bb5a37471fba84864bd7e766b2e7275
+
+🆔 @mehdisedighinasab  @poroxybaz
+[8/19/2026 16:50] poroxybaz: 🚀 New Proxy List (EE)
+Items: 10
+
+vless://d68960ae-98b4-4335-8c13-5758bf8c3c50@re-zeal-us.snowdnvpno4.com:8443/?type=grpc&encryption=none&flow=&serviceName=api.v1.telemetry.EventStream&sni=addons.mozilla.org&fp=chrome&security=reality&pbk=BLEVlyhgrYYDwsqJjm5wi1yUC7z6MBH_eM6vvYUdUQY&sid=530db35e324c3aa5#%40mehdisedighinasab%203565
+
+vless://06c4e938-2954-478f-a870-ca1b163e30e9@estproxy4.lockdwn.com:8443?fp=edge&security=tls&sni=estproxy4.lockdwn.com&type=tcp#%40mehdisedighinasab%204838
+
+vless://583c01d5-de48-4274-be39-2a6a817d37c4@eshy2.metricpipe.space:443?security=reality&encryption=none&pbk=L6mHd2dUSBW13ut-c4kqqd4JVeczEAnKjS139XWwu08&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=eshy2.metricpipe.space&sid=5f3d8e71d19cbfa4#%40mehdisedighinasab%208113
+
+vless://56b812e4-2d96-4ce5-b365-6c801663a37a@ee-1.124515.xyz:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ee-1.124515.xyz&pbk=qVSnKdHTBIF_RG9lBpAhISXE3T_h11danCgBitXP6Tc&sid=c092a032a8c54f53&fp=firefox#%40mehdisedighinasab%203063
+
+vless://4612258c-15e8-4459-a3b6-8b6571699c5f@46.22.216.31:443?security=reality&type=tcp&sni=mail.protech-plus.ee&fp=firefox&flow=xtls-rprx-vision&pbk=NiCJO84l7l--GJ10ggvb6HcOS8qLR30pWTphwvWozhg&encryption=none#%40mehdisedighinasab%205512
+
+vless://5c6d8045-9de9-45e4-b495-463fc3f1a828@31.56.187.165:6543?type=tcp&security=reality&sni=celerisdigital.top&pbk=_fz8jpa604XXSweCCf6PU9Xmd7F4sZ1RSMqNTzwBVA0&sid=a4f8c92d&fp=firefox&encryption=none&flow=xtls-rprx-vision#%40mehdisedighinasab%207237
+
+vless://278412f2-ef42-48e2-a4c0-243b173e612b@ee2.mehab.me:443?&security=tls&fp=chrome&type=tcp&headerType=none&host=ee2.mehab.me&path=%2F#%40mehdisedighinasab%203000
+
+vless://583c01d5-de48-4274-be39-2a6a817d37c4@185.114.116.40:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=L6mHd2dUSBW13ut-c4kqqd4JVeczEAnKjS139XWwu08&sid=5f3d8e71d19cbfa4&sni=eshy2.metricpipe.space#%40mehdisedighinasab%202120
+
+vless://ed1ee387-bb50-4aeb-85f8-e94ad0e47d2a@est3.freeinternat.com:443?security=reality&type=tcp&sni=est3.freeinternat.com&fp=random&flow=xtls-rprx-vision&sid=ff776ff77be48b88&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&encryption=none#%40mehdisedighinasab%203648
+
+vless://ef6c9625-62de-4b9d-b7e2-0d4a9f67a9b2@185.36.141.193:443?fp=chrome&host=sni.ehb.cc.cd&path=%2Fproxyip%3DProxyIP.CMLiussss.net%3Fuuid%3Def6c9625-62de-4b9d-b7e2-0d4a9f67a9b2fp%3Dchrome&security=tls&sni=sni.ehb.cc.cd&type=ws#%40mehdisedighinasab%205707
+
+🆔 @mehdisedighinasab  @poroxybaz
+[8/19/2026 17:00] poroxybaz: 🚀 New Proxy List (AL)
+Items: 10
+
+vless://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@lb1.auragg.org:25332?encryption=none&fp=chrome&pbk=4iK2MvJODGj37OQE588278o4abt70zkFZzmQJg47NiA&security=reality&serviceName=auragrpc&sid=a3d8f1e9b2c7d4e6&sni=cloudflare.com&type=grpc#%40mehdisedighinasab%205048
+
+vless://7b81d175-d180-4ec8-bbc5-dfe80e8d3b68@144.31.129.42:443/?type=grpc&encryption=none&flow=&serviceName=nexusGrpc&sni=morphbinerkkw.ru&fp=firefox&security=reality&pbk=CxMPFpwhcR9Ocp-Xy_1J08mo-atdHKUf58WLOy_XlgM&sid=d9662905#%40mehdisedighinasab%206207
+
+vless://5c5a466e-f2e0-4211-8963-742afac24948@193.108.112.65:443?allow_insecure=0&fp=chrome&host=netmelivip.dpdns.org&path=%2Fxiron&security=tls&sni=netmelivip.dpdns.org&type=ws#%40mehdisedighinasab%206194
+
+vless://1da18def-6804-44c8-bb6d-83cff995f567@78.159.131.235:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=XZa7f7bABj7lY4HuLopVCBBBYTu-RB7QyIZ96njvYwo&sid=7bcfc0bc&sni=yahoo.com#%40mehdisedighinasab%207003
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFVFVPT1FUcGRycktsbjcyVVl4d2lvQDEzMC40OS4xODkuMTU4OjEwNzky#%40mehdisedighinasab%206229
+
+vless://1da18def-6804-44c8-bb6d-83cff995f567@nl6.unlockvpn.online:443?security=reality&encryption=none&pbk=XZa7f7bABj7lY4HuLopVCBBBYTu-RB7QyIZ96njvYwo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=7bcfc0bc#%40mehdisedighinasab%205047
+
+vless://8f273bcc-15f2-4c96-8942-8aae51eddd8e@144.31.129.42:443?encryption=none&fp=firefox&pbk=CxMPFpwhcR9Ocp-Xy_1J08mo-atdHKUf58WLOy_XlgM&security=reality&serviceName=nexusGrpc&sid=0bc73dd1f045&sni=morphbinerkkw.ru&type=grpc#%40mehdisedighinasab%204953
+
+vless://f62a37f3-f7df-4673-a7c8-06a9fc72c6ea@45.89.60.76:1337?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=0OajRGdqF2S2JJgKYcsq6nIF3K_ypFYCTUzCjR8Wh1o&sid=c692a719&sni=yt.alba.xanka.best#%40mehdisedighinasab%204478
+
+vless://76be2b92-8010-4ebd-8c94-8d778fb92311@85.155.228.35:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=Q0351ApYOgCGCOgSEROnacDdm7xp-kLs9mYddSDFwRQ&sid=360881fdb193758d&sni=github.com&spx=/#%40mehdisedighinasab%202172
+
+vless://d4cae7df-50a1-428c-bd62-881c8f3bbd90@youtube.superbuba.top:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=youtube.superbuba.top&fp=chrome&pbk=rCkSHJ7goy7ZvSlau4LfXF-QLloOJMNeMxpeeQtwtVs&sid=4fa44664f6a566d3&spx=/#%40mehdisedighinasab%206383
+
+🆔 @mehdisedighinasab  @poroxybaz
